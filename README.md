@@ -7,18 +7,18 @@
 ## 1. Architecture Overview
 
 ```
-[cdp-master1: /opt/mos_qatar_demo/landing/]
+[cdp-master1: /home/cloudera/mos_qatar_demo_poc/landing/]
         |
         |  JOB 1: 01_generate_data.py
         |  (cron every 1 min, python3)
         |  Creates: mos_sports_events_YYYYMMDD_HHMMSS.txt
         v
-[cdp-master1: /opt/mos_qatar_demo/landing/mos_sports_events_YYYYMMDD_HHMMSS.txt]
+[cdp-master1: /home/cloudera/mos_qatar_demo_poc/landing/mos_sports_events_YYYYMMDD_HHMMSS.txt]
         |
         |  JOB 2: run_ingest.sh -> 02_ingest_to_hdfs.py
         |  (python3, hdfs dfs -put)
         |  Adds ##INGEST_METADATA## header to each file
-        |  Archives local file to /opt/mos_qatar_demo/archive/
+        |  Archives local file to /home/cloudera/mos_qatar_demo_poc/archive/
         v
 [HDFS: /data/mos_qatar_demo/text_files/raw/mos_sports_events_YYYYMMDD_HHMMSS.txt]
         |
@@ -51,14 +51,14 @@
 | Hive Metastore    | thrift://cdp-master2.cloudera.bbi:9083,thrift://cdp-master3.cloudera.bbi:9083 |
 | HiveServer2       | ZooKeeper discovery (ports 2181 on all nodes)  |
 | Run user          | cloudera                                       |
-| Local base path   | /opt/mos_qatar_demo (on cdp-master1 only)      |
+| Local base path   | /home/cloudera/mos_qatar_demo_poc (on cdp-master1 only)      |
 
 ---
 
 ## 3. File Inventory
 
 ```
-/opt/mos_qatar_demo/
+/home/cloudera/mos_qatar_demo_poc
 ├── config/
 │   └── mos_qatar_demo.ini          # Master config - all jobs read this
 ├── scripts/
@@ -90,11 +90,11 @@
 
 ```bash
 # 0.1 Run local setup as root (creates dirs, sets ownership)
-sudo bash /opt/mos_qatar_demo/run/setup_local.sh
+sudo bash /home/cloudera/mos_qatar_demo_poc/run/setup_local.sh
 
 # 0.2 Run HDFS and Hive setup as cloudera
 su - cloudera
-bash /opt/mos_qatar_demo/run/setup_hdfs.sh
+bash /home/cloudera/mos_qatar_demo_poc/run/setup_hdfs.sh
 ```
 
 Verify HDFS was created:
@@ -115,20 +115,20 @@ beeline -u "jdbc:hive2://cdp-master1.cloudera.bbi:2181,cdp-master2.cloudera.bbi:
 **Single manual run:**
 ```bash
 su - cloudera
-python3 /opt/mos_qatar_demo/scripts/01_generate_data.py
+python3 /home/cloudera/mos_qatar_demo_poc/scripts/01_generate_data.py
 ```
 
 **Check output:**
 ```bash
-ls -lh /opt/mos_qatar_demo/landing/
-cat /opt/mos_qatar_demo/landing/mos_sports_events_*.txt
+ls -lh /home/cloudera/mos_qatar_demo_poc/landing/
+cat /home/cloudera/mos_qatar_demo_poc/landing/mos_sports_events_*.txt
 ```
 
 **Set up cron (every 1 minute):**
 ```bash
 crontab -e
 # Add:
-* * * * * /usr/bin/python3 /opt/mos_qatar_demo/scripts/01_generate_data.py >> /opt/mos_qatar_demo/logs/cron_generate.log 2>&1
+* * * * * /usr/bin/python3 /home/cloudera/mos_qatar_demo_poc/scripts/01_generate_data.py >> /home/cloudera/mos_qatar_demo_poc/logs/cron_generate.log 2>&1
 ```
 
 ---
@@ -137,7 +137,7 @@ crontab -e
 
 ```bash
 su - cloudera
-bash /opt/mos_qatar_demo/scripts/run_ingest.sh
+bash /home/cloudera/mos_qatar_demo_poc/scripts/run_ingest.sh
 ```
 
 **Verify HDFS raw:**
@@ -148,7 +148,7 @@ hdfs dfs -cat /data/mos_qatar_demo/text_files/raw/mos_sports_events_*.txt | head
 
 **Check tracking log:**
 ```bash
-cat /opt/mos_qatar_demo/metadata/ingested_files.log
+cat /home/cloudera/mos_qatar_demo_poc/metadata/ingested_files.log
 ```
 
 ---
@@ -157,7 +157,7 @@ cat /opt/mos_qatar_demo/metadata/ingested_files.log
 
 ```bash
 su - cloudera
-bash /opt/mos_qatar_demo/scripts/run_transform.sh
+bash /home/cloudera/mos_qatar_demo_poc/scripts/run_transform.sh
 ```
 
 **Verify HDFS gold:**
@@ -167,7 +167,7 @@ hdfs dfs -ls -R /data/mos_qatar_demo/text_files/gold/
 
 **Check tracking log:**
 ```bash
-cat /opt/mos_qatar_demo/metadata/processed_files.log
+cat /home/cloudera/mos_qatar_demo_poc/metadata/processed_files.log
 ```
 
 ---
@@ -252,13 +252,13 @@ SELECT raw_line FROM sports_unstructured_raw LIMIT 5;
 ```bash
 crontab -e
 # ── Job 1: Generate new data file every 1 minute ──────────────────────────
-* * * * * /usr/bin/python3 /opt/mos_qatar_demo/scripts/01_generate_data.py >> /opt/mos_qatar_demo/logs/cron_generate.log 2>&1
+* * * * * /usr/bin/python3 /home/cloudera/mos_qatar_demo_poc/scripts/01_generate_data.py >> /home/cloudera/mos_qatar_demo_poc/logs/cron_generate.log 2>&1
 
 # ── Job 2: Ingest to HDFS every 5 minutes ─────────────────────────────────
-*/5 * * * * /bin/bash /opt/mos_qatar_demo/scripts/run_ingest.sh >> /opt/mos_qatar_demo/logs/cron_ingest.log 2>&1
+*/5 * * * * /bin/bash /home/cloudera/mos_qatar_demo_poc/scripts/run_ingest.sh >> /home/cloudera/mos_qatar_demo_poc/logs/cron_ingest.log 2>&1
 
 # ── Job 3: Transform to gold every 10 minutes ─────────────────────────────
-*/10 * * * * /bin/bash /opt/mos_qatar_demo/scripts/run_transform.sh >> /opt/mos_qatar_demo/logs/cron_transform.log 2>&1
+*/10 * * * * /bin/bash /home/cloudera/mos_qatar_demo_poc/scripts/run_transform.sh >> /home/cloudera/mos_qatar_demo_poc/logs/cron_transform.log 2>&1
 ```
 
 ---
@@ -298,15 +298,15 @@ hdfs dfs -rm -r /data/mos_qatar_demo/text_files/raw/*
 hdfs dfs -rm -r /data/mos_qatar_demo/text_files/gold/*
 
 # ── Clear tracking logs ────────────────────────────────────────────────────
-> /opt/mos_qatar_demo/metadata/ingested_files.log
-> /opt/mos_qatar_demo/metadata/processed_files.log
+> //home/cloudera/mos_qatar_demo_poc/metadata/ingested_files.log
+> /home/cloudera/mos_qatar_demo_poc/metadata/processed_files.log
 
 # ── Clear local landing and archive ───────────────────────────────────────
-rm -f /opt/mos_qatar_demo/landing/*.txt
-rm -f /opt/mos_qatar_demo/archive/*.txt
+rm -f /home/cloudera/mos_qatar_demo_poc/landing/*.txt
+rm -f /home/cloudera/mos_qatar_demo_poc/archive/*.txt
 
 # ── Re-run Hive DDL (drops and recreates tables) ──────────────────────────
-bash /opt/mos_qatar_demo/run/setup_hdfs.sh
+bash /home/cloudera/mos_qatar_demo_poc/run/setup_hdfs.sh
 ```
 
 ---
