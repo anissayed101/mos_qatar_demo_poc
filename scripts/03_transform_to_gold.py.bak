@@ -53,6 +53,7 @@ import sys
 import logging
 import argparse
 import configparser
+import subprocess
 import traceback
 from datetime import datetime
 
@@ -121,37 +122,38 @@ def mark_processed(processed_log, filename):
 # HDFS FILE LISTING
 # ─────────────────────────────────────────────────────────────────────────────
 
-def list_hdfs_files(spark, logger, hdfs_dir, suffix='.txt'):
+def list_hdfs_files(logger, hdfs_dir, suffix='.txt'):
     """
-    List files in an HDFS directory using the Hadoop FileSystem Java API
-    via PySpark's Java gateway. Avoids subprocess and HADOOP_CONF_DIR issues.
-    Returns a sorted list of absolute HDFS paths ending with 'suffix'.
+    List files in an HDFS directory using the hdfs CLI.
+    Returns a sorted list of absolute HDFS paths that end with 'suffix'.
+
+    hdfs dfs -ls output format:
+        -rw-r--r--   3 cloudera supergroup  1234 2026-03-16 12:00 /path/to/file.txt
+    Fields: perms replication owner group size date time path  (index 0-7)
     """
-    try:
-        sc          = spark.sparkContext
-        URI         = sc._jvm.java.net.URI
-        Path        = sc._jvm.org.apache.hadoop.fs.Path
-        FileSystem  = sc._jvm.org.apache.hadoop.fs.FileSystem
+    cmd    = ['hdfs', 'dfs', '-ls', hdfs_dir]
+    result = subprocess.run(cmd,
+                            stdout=subprocess.PIPE,
+                            stderr=subprocess.PIPE)
 
-        fs       = FileSystem.get(URI(hdfs_dir), sc._jsc.hadoopConfiguration())
-        statuses = fs.listStatus(Path(hdfs_dir))
+    if result.returncode != 0:
+        stderr = result.stderr.decode('utf-8').strip()
+        logger.error("hdfs ls failed for '{}': {}".format(hdfs_dir, stderr))
+        return []
 
-        files = []
-        for status in statuses:
-            path_str = status.getPath().toString()
-            # path_str will be full URI: hdfs://namenode/data/.../file.txt
-            # Extract just the HDFS path part (after the authority)
-            uri_obj  = URI(path_str)
-            hdfs_path = uri_obj.getPath()
+    stdout = result.stdout.decode('utf-8')
+    files  = []
+
+    for line in stdout.strip().split('\n'):
+        parts = line.split()
+        # File lines start with '-' (not 'd' for directory)
+        if len(parts) >= 8 and parts[0].startswith('-'):
+            hdfs_path = parts[7]
             if hdfs_path.endswith(suffix):
                 files.append(hdfs_path)
 
-        logger.info("HDFS files found in '{}': {}".format(hdfs_dir, len(files)))
-        return sorted(files)
-
-    except Exception as exc:
-        logger.error("Hadoop FS listing failed for '{}': {}".format(hdfs_dir, str(exc)))
-        return []
+    logger.info("HDFS files found in '{}': {}".format(hdfs_dir, len(files)))
+    return sorted(files)
 
 
 # ─────────────────────────────────────────────────────────────────────────────
@@ -298,29 +300,12 @@ def main():
     # ── Ensure local metadata dir ─────────────────────────────────────────────
     os.makedirs(metadata_dir, exist_ok=True)
 
-    # ── Initialise SparkSession (needed before HDFS listing via Java API) ───────
-    logger.info("Initialising SparkSession with Hive support...")
-    spark = (
-        SparkSession.builder
-        .appName(app_name)
-        .config("hive.metastore.uris",               metastore_uris)
-        .config("hive.exec.dynamic.partition",        "true")
-        .config("hive.exec.dynamic.partition.mode",   "nonstrict")
-        .config("spark.sql.sources.partitionOverwriteMode", "dynamic")
-        .config("spark.sql.hive.convertMetastoreParquet", "false")
-        .enableHiveSupport()
-        .getOrCreate()
-    )
-    spark.sparkContext.setLogLevel("WARN")
-    logger.info("SparkSession ready. App ID: {}".format(
-        spark.sparkContext.applicationId))
-
     # ── Load already-processed filenames ──────────────────────────────────────
     processed_files = load_processed_files(processed_log)
     logger.info("Previously processed HDFS files: {}".format(len(processed_files)))
 
     # ── List HDFS raw files ────────────────────────────────────────────────────
-    hdfs_files = list_hdfs_files(spark, logger, hdfs_raw, suffix='.txt')
+    hdfs_files = list_hdfs_files(logger, hdfs_raw, suffix='.txt')
 
     if not hdfs_files:
         logger.info("No .txt files found in HDFS raw. Exiting cleanly.")
@@ -344,6 +329,24 @@ def main():
 
     logger.info("-" * 66)
     logger.info("Files to process now : {}".format(len(new_files)))
+
+    # ── Initialise SparkSession ────────────────────────────────────────────────
+    logger.info("Initialising SparkSession with Hive support...")
+    spark = (
+        SparkSession.builder
+        .appName(app_name)
+        .config("hive.metastore.uris",               metastore_uris)
+        .config("hive.exec.dynamic.partition",        "true")
+        .config("hive.exec.dynamic.partition.mode",   "nonstrict")
+        .config("spark.sql.sources.partitionOverwriteMode", "dynamic")
+        # Use Hive's own Parquet writer for full external-table compatibility
+        .config("spark.sql.hive.convertMetastoreParquet", "false")
+        .enableHiveSupport()
+        .getOrCreate()
+    )
+    spark.sparkContext.setLogLevel("WARN")
+    logger.info("SparkSession ready. App ID: {}".format(
+        spark.sparkContext.applicationId))
 
     processing_ts   = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
     total_records   = 0

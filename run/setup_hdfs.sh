@@ -18,13 +18,14 @@
 
 set -uo pipefail
 
-BASE_DIR="/opt/mos_qatar_demo"
+BASE_DIR="/home/cloudera/mos_qatar_demo_poc"
 DDL_DIR="${BASE_DIR}/ddl"
 LOG_DIR="${BASE_DIR}/logs"
 
 HDFS_BASE="/data/mos_qatar_demo/text_files"
 
-BEELINE_URL="jdbc:hive2://cdp-master1.cloudera.bbi:2181,cdp-master2.cloudera.bbi:2181,cdp-master3.cloudera.bbi:2181/default;serviceDiscoveryMode=zooKeeper;zooKeeperNamespace=hiveserver2"
+BEELINE_URL="jdbc:hive2://cdp-master1.cloudera.bbi:2181,cdp-master2.cloudera.bbi:2181,cdp-master3.cloudera.bbi:2181/;serviceDiscoveryMode=zooKeeper;zooKeeperNamespace=hiveserver2"
+BEELINE_URL_2="jdbc:hive2://cdp-master1.cloudera.bbi:2181,cdp-master2.cloudera.bbi:2181,cdp-master3.cloudera.bbi:2181/;serviceDiscoveryMode=zooKeeper;zooKeeperNamespace=hiveserver2"
 
 mkdir -p "${LOG_DIR}"
 TIMESTAMP="$(date '+%Y%m%d_%H%M%S')"
@@ -70,7 +71,7 @@ hdfs dfs -ls -R "${HDFS_BASE}" 2>&1 | tee -a "${SETUP_LOG}"
 log ""
 log "[4/5] Creating Hive database (mos_qatar_demo)..."
 beeline -u "${BEELINE_URL}" \
-    -n "" -p "" \
+    -n "cloudera" -p "cloudera" \
     --silent=false \
     -f "${DDL_DIR}/create_database.hql" \
     2>&1 | tee -a "${SETUP_LOG}"
@@ -80,7 +81,7 @@ log "  Database DDL done."
 log ""
 log "  Creating raw table (sports_unstructured_raw)..."
 beeline -u "${BEELINE_URL}" \
-    -n "" -p "" \
+    -n "cloudera" -p "cloudera" \
     --silent=false \
     -f "${DDL_DIR}/create_raw_table.hql" \
     2>&1 | tee -a "${SETUP_LOG}"
@@ -90,7 +91,7 @@ log "  Raw table DDL done."
 log ""
 log "  Creating gold table (sports_events_gold)..."
 beeline -u "${BEELINE_URL}" \
-    -n "" -p "" \
+    -n "cloudera" -p "cloudera" \
     --silent=false \
     -f "${DDL_DIR}/create_gold_table.hql" \
     2>&1 | tee -a "${SETUP_LOG}"
@@ -99,10 +100,10 @@ log "  Gold table DDL done."
 # ── Final summary ──────────────────────────────────────────────────────────
 log ""
 log "[5/5] Verifying Hive objects..."
-beeline -u "${BEELINE_URL}" \
-    -n "" -p "" \
+beeline -u "${BEELINE_URL_2}" \
+    -n "cloudera" -p "cloudera" \
     --silent=false \
-    -e "USE mos_qatar_demo; SHOW TABLES;" \
+    -e "SHOW TABLES; GRANT SELECT ON TABLE mos_qatar_demo.sports_events_gold TO USER cloudera; GRANT SELECT ON TABLE mos_qatar_demo.sports_unstructured_raw TO USER cloudera;" \
     2>&1 | tee -a "${SETUP_LOG}"
 
 log ""
