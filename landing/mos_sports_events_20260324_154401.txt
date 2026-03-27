@@ -1,0 +1,3 @@
+Event ID: EVT1907 | Event Name: Arab Nations Championship Semi Final | Sport: Swimming | Venue: Lusail Stadium | City: Lusail | Country: Qatar | Event Date: 2026-04-19 | Team A: Al Gharafa SC | Team B: Jordan National Team | Status: Postponed | Attendance: 61397
+Event ID: EVT3748 | Event Name: GCC Club Championship Quarter Final | Sport: Volleyball | Venue: Al Thumama Stadium | City: Doha | Country: Qatar | Event Date: 2026-04-17 | Team A: Al Duhail SC | Team B: Kuwait FC | Status: Confirmed | Attendance: 77921
+Event ID: EVT2122 | Event Name: National Team Preparation Match | Sport: Swimming | Venue: Khalifa International Stadium | City: Doha | Country: Qatar | Event Date: 2026-04-08 | Team A: Al Sadd SC | Team B: Oman FC | Status: Cancelled | Attendance: 10603

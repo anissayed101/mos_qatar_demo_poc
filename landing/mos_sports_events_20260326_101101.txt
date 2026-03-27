@@ -1,0 +1,3 @@
+Event ID: EVT9495 | Event Name: Gulf Youth Cup Semi Final | Sport: Football | Venue: Lusail Stadium | City: Lusail | Country: Qatar | Event Date: 2026-05-05 | Team A: Saudi Arabia National | Team B: Al Khor SC | Status: Completed | Attendance: 27998
+Event ID: EVT5604 | Event Name: Gulf Cup Qualifier Round 1 | Sport: Handball | Venue: Al Janoub Stadium | City: Al Wakrah | Country: Qatar | Event Date: 2026-03-28 | Team A: Saudi Arabia National | Team B: Al Duhail SC | Status: In Progress | Attendance: 86707
+Event ID: EVT7690 | Event Name: Qatar Premier League Match Day 12 | Sport: Football | Venue: Qatar Sports Club Arena | City: Doha | Country: Qatar | Event Date: 2026-04-18 | Team A: Saudi Arabia National | Team B: Kuwait FC | Status: Postponed | Attendance: 20764

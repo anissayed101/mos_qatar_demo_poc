@@ -1,0 +1,3 @@
+Event ID: EVT4592 | Event Name: Gulf Youth Cup Round 1 | Sport: Football | Venue: Khalifa International Stadium | City: Doha | Country: Qatar | Event Date: 2026-04-20 | Team A: Al Khor SC | Team B: Al Rayyan SC | Status: Completed | Attendance: 63064
+Event ID: EVT6649 | Event Name: GCC Club Championship Final | Sport: Football | Venue: Ahmad Bin Ali Stadium | City: Al Rayyan | Country: Qatar | Event Date: 2026-04-13 | Team A: UAE National Team | Team B: Jordan U21 | Status: Scheduled | Attendance: 8776
+Event ID: EVT6460 | Event Name: Asian Qualifiers Warm-up Match | Sport: Football | Venue: Aspire Zone Arena | City: Doha | Country: Qatar | Event Date: 2026-03-26 | Team A: Iraq National Team | Team B: Oman FC | Status: Completed | Attendance: 9229

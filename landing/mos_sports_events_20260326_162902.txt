@@ -1,0 +1,3 @@
+Event ID: EVT5432 | Event Name: Qatar Olympic Training Camp Evaluation | Sport: Athletics | Venue: Al Thumama Stadium | City: Doha | Country: Qatar | Event Date: 2026-03-28 | Team A: Qatar National Team | Team B: Jordan National Team | Status: Confirmed | Attendance: 30459
+Event ID: EVT8388 | Event Name: Gulf Youth Cup Semi Final | Sport: Swimming | Venue: Aspire Zone Arena | City: Doha | Country: Qatar | Event Date: 2026-05-02 | Team A: Al Sadd SC | Team B: Iraq National Team | Status: Scheduled | Attendance: 40734
+Event ID: EVT6587 | Event Name: Gulf Youth Cup Round 1 | Sport: Volleyball | Venue: Al Wakrah Sports Complex | City: Al Wakrah | Country: Qatar | Event Date: 2026-03-26 | Team A: Jordan U21 | Team B: Al Rayyan SC | Status: Scheduled | Attendance: 15240

@@ -1,0 +1,3 @@
+Event ID: EVT7042 | Event Name: Gulf Cup Qualifier Round 1 | Sport: Athletics | Venue: Lusail Stadium | City: Lusail | Country: Qatar | Event Date: 2026-04-20 | Team A: Qatar National Team | Team B: Bahrain Youth Team | Status: Confirmed | Attendance: 31428
+Event ID: EVT8711 | Event Name: Qatar Under-20 Development League | Sport: Basketball | Venue: Education City Stadium | City: Al Rayyan | Country: Qatar | Event Date: 2026-03-28 | Team A: Al Sadd SC | Team B: Jordan U21 | Status: Completed | Attendance: 48512
+Event ID: EVT8221 | Event Name: Qatar Premier League Match Day 12 | Sport: Football | Venue: Al Janoub Stadium | City: Al Wakrah | Country: Qatar | Event Date: 2026-04-18 | Team A: Qatar U17 Squad | Team B: Al Gharafa SC | Status: Completed | Attendance: 38952

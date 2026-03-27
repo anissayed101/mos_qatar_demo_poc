@@ -1,0 +1,3 @@
+Event ID: EVT3292 | Event Name: Gulf Youth Cup Round 2 | Sport: Football | Venue: Khalifa International Stadium | City: Doha | Country: Qatar | Event Date: 2026-03-30 | Team A: Al Khor SC | Team B: Jordan U21 | Status: Postponed | Attendance: 78275
+Event ID: EVT2096 | Event Name: Arab Nations Championship Group Stage | Sport: Football | Venue: Aspire Zone Arena | City: Doha | Country: Qatar | Event Date: 2026-04-01 | Team A: Al Gharafa SC | Team B: Jordan U21 | Status: In Progress | Attendance: 27445
+Event ID: EVT7177 | Event Name: Ministry Youth Sports Day | Sport: Football | Venue: Qatar Sports Club Arena | City: Doha | Country: Qatar | Event Date: 2026-03-25 | Team A: Jordan U21 | Team B: Iraq National Team | Status: Completed | Attendance: 73243

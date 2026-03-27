@@ -1,0 +1,3 @@
+Event ID: EVT7854 | Event Name: Asian Qualifiers Warm-up Match | Sport: Football | Venue: Al Thumama Stadium | City: Doha | Country: Qatar | Event Date: 2026-04-18 | Team A: Jordan U21 | Team B: Al Arabi SC | Status: Cancelled | Attendance: 23303
+Event ID: EVT9252 | Event Name: GCC Club Championship Final | Sport: Football | Venue: Qatar Sports Club Arena | City: Doha | Country: Qatar | Event Date: 2026-04-13 | Team A: Al Duhail SC | Team B: Qatar U17 Squad | Status: Scheduled | Attendance: 64371
+Event ID: EVT6139 | Event Name: Gulf Youth Cup Round 1 | Sport: Football | Venue: Al Thumama Stadium | City: Doha | Country: Qatar | Event Date: 2026-03-21 | Team A: Al Duhail SC | Team B: Qatar U17 Squad | Status: Completed | Attendance: 31395

@@ -1,0 +1,3 @@
+Event ID: EVT4831 | Event Name: Qatar Olympic Training Camp Evaluation | Sport: Swimming | Venue: Al Bayt Stadium | City: Al Khor | Country: Qatar | Event Date: 2026-05-03 | Team A: Al Duhail SC | Team B: Iraq National Team | Status: In Progress | Attendance: 6045
+Event ID: EVT3321 | Event Name: Qatar Cup Final | Sport: Football | Venue: Al Thumama Stadium | City: Doha | Country: Qatar | Event Date: 2026-05-07 | Team A: Al Sadd SC | Team B: Al Arabi SC | Status: Postponed | Attendance: 70297
+Event ID: EVT7277 | Event Name: FIFA World Cup Qatar Legacy Match | Sport: Swimming | Venue: Al Thumama Stadium | City: Doha | Country: Qatar | Event Date: 2026-04-28 | Team A: UAE National Team | Team B: Al Khor SC | Status: Postponed | Attendance: 18417

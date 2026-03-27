@@ -1,0 +1,3 @@
+Event ID: EVT8652 | Event Name: Gulf Youth Cup Quarter Final | Sport: Football | Venue: Aspire Zone Arena | City: Doha | Country: Qatar | Event Date: 2026-04-14 | Team A: Kuwait FC | Team B: Al Rayyan SC | Status: Confirmed | Attendance: 65988
+Event ID: EVT1819 | Event Name: FIFA World Cup Qatar Legacy Match | Sport: Basketball | Venue: Al Wakrah Sports Complex | City: Al Wakrah | Country: Qatar | Event Date: 2026-05-05 | Team A: Qatar National Team | Team B: UAE National Team | Status: Cancelled | Attendance: 65723
+Event ID: EVT1339 | Event Name: GCC Club Championship Quarter Final | Sport: Football | Venue: Al Bayt Stadium | City: Al Khor | Country: Qatar | Event Date: 2026-04-14 | Team A: Al Khor SC | Team B: Kuwait FC | Status: Scheduled | Attendance: 63261

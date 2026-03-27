@@ -1,0 +1,3 @@
+Event ID: EVT5039 | Event Name: Gulf Youth Cup Round 2 | Sport: Volleyball | Venue: Al Thumama Stadium | City: Doha | Country: Qatar | Event Date: 2026-05-02 | Team A: Al Sadd SC | Team B: Al Khor SC | Status: Completed | Attendance: 83495
+Event ID: EVT7595 | Event Name: Ministry Youth Sports Day | Sport: Football | Venue: Al Janoub Stadium | City: Al Wakrah | Country: Qatar | Event Date: 2026-04-21 | Team A: UAE National Team | Team B: Qatar U21 Squad | Status: Cancelled | Attendance: 64709
+Event ID: EVT9191 | Event Name: Ministry Youth Sports Day | Sport: Football | Venue: Al Janoub Stadium | City: Al Wakrah | Country: Qatar | Event Date: 2026-05-02 | Team A: Kuwait FC | Team B: Jordan National Team | Status: In Progress | Attendance: 34911

@@ -1,0 +1,3 @@
+Event ID: EVT6212 | Event Name: Qatar Cup Semi Final | Sport: Football | Venue: Al Bayt Stadium | City: Al Khor | Country: Qatar | Event Date: 2026-05-07 | Team A: Qatar National Team | Team B: Al Sadd SC | Status: Scheduled | Attendance: 18413
+Event ID: EVT8912 | Event Name: National Team Preparation Match | Sport: Swimming | Venue: Khalifa International Stadium | City: Doha | Country: Qatar | Event Date: 2026-05-04 | Team A: Qatar U17 Squad | Team B: Al Duhail SC | Status: In Progress | Attendance: 75245
+Event ID: EVT1597 | Event Name: Qatar Cup Semi Final | Sport: Football | Venue: Aspire Zone Arena | City: Doha | Country: Qatar | Event Date: 2026-04-05 | Team A: Al Sadd SC | Team B: Jordan National Team | Status: Completed | Attendance: 63272

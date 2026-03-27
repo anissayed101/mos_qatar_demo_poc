@@ -1,0 +1,3 @@
+Event ID: EVT9424 | Event Name: Gulf Youth Cup Round 1 | Sport: Football | Venue: Lusail Stadium | City: Lusail | Country: Qatar | Event Date: 2026-04-13 | Team A: UAE National Team | Team B: Oman FC | Status: Cancelled | Attendance: 20305
+Event ID: EVT4153 | Event Name: Gulf Youth Cup Final | Sport: Handball | Venue: Qatar Sports Club Arena | City: Doha | Country: Qatar | Event Date: 2026-03-30 | Team A: Oman FC | Team B: Jordan National Team | Status: Postponed | Attendance: 53046
+Event ID: EVT9756 | Event Name: Arab Nations Championship Group Stage | Sport: Football | Venue: Ahmad Bin Ali Stadium | City: Al Rayyan | Country: Qatar | Event Date: 2026-03-30 | Team A: UAE National Team | Team B: Al Sadd SC | Status: In Progress | Attendance: 35570

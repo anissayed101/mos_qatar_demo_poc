@@ -1,0 +1,3 @@
+Event ID: EVT6916 | Event Name: Gulf Youth Cup Final | Sport: Football | Venue: Al Wakrah Sports Complex | City: Al Wakrah | Country: Qatar | Event Date: 2026-04-21 | Team A: Jordan National Team | Team B: Al Duhail SC | Status: Cancelled | Attendance: 45095
+Event ID: EVT4343 | Event Name: Gulf Cup Qualifier Round 1 | Sport: Swimming | Venue: Ahmad Bin Ali Stadium | City: Al Rayyan | Country: Qatar | Event Date: 2026-04-16 | Team A: Al Khor SC | Team B: Qatar U21 Squad | Status: Confirmed | Attendance: 71158
+Event ID: EVT8201 | Event Name: Gulf Youth Cup Round 2 | Sport: Football | Venue: Al Janoub Stadium | City: Al Wakrah | Country: Qatar | Event Date: 2026-04-13 | Team A: Iraq National Team | Team B: Saudi Arabia National | Status: Completed | Attendance: 30856

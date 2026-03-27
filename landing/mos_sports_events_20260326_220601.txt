@@ -1,0 +1,3 @@
+Event ID: EVT4453 | Event Name: Gulf Youth Cup Round 2 | Sport: Football | Venue: Khalifa International Stadium | City: Doha | Country: Qatar | Event Date: 2026-05-09 | Team A: Oman FC | Team B: Al Gharafa SC | Status: Postponed | Attendance: 74426
+Event ID: EVT4637 | Event Name: FIFA World Cup Qatar Legacy Match | Sport: Basketball | Venue: Qatar Sports Club Arena | City: Doha | Country: Qatar | Event Date: 2026-04-08 | Team A: Al Gharafa SC | Team B: Qatar U17 Squad | Status: Completed | Attendance: 82186
+Event ID: EVT5042 | Event Name: National Day Football Celebration | Sport: Handball | Venue: Education City Stadium | City: Al Rayyan | Country: Qatar | Event Date: 2026-04-29 | Team A: Jordan National Team | Team B: Al Khor SC | Status: Scheduled | Attendance: 45222

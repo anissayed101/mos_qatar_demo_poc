@@ -1,0 +1,3 @@
+Event ID: EVT2118 | Event Name: Qatar Premier League Match Day 5 | Sport: Swimming | Venue: Ahmad Bin Ali Stadium | City: Al Rayyan | Country: Qatar | Event Date: 2026-04-02 | Team A: Qatar U17 Squad | Team B: Palestine Youth | Status: Cancelled | Attendance: 44049
+Event ID: EVT7144 | Event Name: FIFA World Cup Qatar Legacy Match | Sport: Handball | Venue: Al Thumama Stadium | City: Doha | Country: Qatar | Event Date: 2026-04-21 | Team A: Al Duhail SC | Team B: Palestine Youth | Status: Postponed | Attendance: 70143
+Event ID: EVT8430 | Event Name: GCC Club Championship Semi Final | Sport: Football | Venue: Al Janoub Stadium | City: Al Wakrah | Country: Qatar | Event Date: 2026-04-08 | Team A: Jordan U21 | Team B: Palestine Youth | Status: In Progress | Attendance: 41250

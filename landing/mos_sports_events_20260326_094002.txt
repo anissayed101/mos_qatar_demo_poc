@@ -1,0 +1,3 @@
+Event ID: EVT6755 | Event Name: National Team Preparation Match | Sport: Swimming | Venue: Lusail Stadium | City: Lusail | Country: Qatar | Event Date: 2026-03-27 | Team A: Palestine Youth | Team B: Qatar National Team | Status: Postponed | Attendance: 80208
+Event ID: EVT2366 | Event Name: Gulf Youth Cup Semi Final | Sport: Football | Venue: Khalifa International Stadium | City: Doha | Country: Qatar | Event Date: 2026-04-29 | Team A: Oman FC | Team B: Al Gharafa SC | Status: Completed | Attendance: 23357
+Event ID: EVT9998 | Event Name: GCC Club Championship Final | Sport: Football | Venue: Aspire Zone Arena | City: Doha | Country: Qatar | Event Date: 2026-04-13 | Team A: Qatar U17 Squad | Team B: Al Rayyan SC | Status: Cancelled | Attendance: 53186

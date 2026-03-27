@@ -1,0 +1,3 @@
+Event ID: EVT2047 | Event Name: Ministry Invitational Friendly Tournament | Sport: Athletics | Venue: Education City Stadium | City: Al Rayyan | Country: Qatar | Event Date: 2026-04-16 | Team A: Qatar U21 Squad | Team B: Saudi Arabia National | Status: Postponed | Attendance: 20098
+Event ID: EVT5314 | Event Name: Ramadan Football Festival | Sport: Football | Venue: Al Bayt Stadium | City: Al Khor | Country: Qatar | Event Date: 2026-04-14 | Team A: Qatar National Team | Team B: UAE National Team | Status: Postponed | Attendance: 45929
+Event ID: EVT5530 | Event Name: Asian Qualifiers Warm-up Match | Sport: Football | Venue: Lusail Stadium | City: Lusail | Country: Qatar | Event Date: 2026-05-06 | Team A: Jordan U21 | Team B: Oman FC | Status: Scheduled | Attendance: 51887

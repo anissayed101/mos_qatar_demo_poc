@@ -1,0 +1,3 @@
+Event ID: EVT2369 | Event Name: GCC Club Championship Final | Sport: Swimming | Venue: Al Wakrah Sports Complex | City: Al Wakrah | Country: Qatar | Event Date: 2026-05-10 | Team A: Palestine Youth | Team B: Al Khor SC | Status: Cancelled | Attendance: 38083
+Event ID: EVT6150 | Event Name: Qatar Premier League Match Day 8 | Sport: Handball | Venue: Al Bayt Stadium | City: Al Khor | Country: Qatar | Event Date: 2026-04-21 | Team A: Oman FC | Team B: Al Duhail SC | Status: Confirmed | Attendance: 74623
+Event ID: EVT8693 | Event Name: Asian Qualifiers Warm-up Match | Sport: Football | Venue: Qatar Sports Club Arena | City: Doha | Country: Qatar | Event Date: 2026-04-27 | Team A: UAE National Team | Team B: Jordan U21 | Status: Cancelled | Attendance: 80268

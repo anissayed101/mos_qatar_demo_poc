@@ -1,0 +1,3 @@
+Event ID: EVT7549 | Event Name: Qatar Olympic Training Camp Evaluation | Sport: Football | Venue: Khalifa International Stadium | City: Doha | Country: Qatar | Event Date: 2026-03-25 | Team A: Jordan U21 | Team B: Saudi Arabia National | Status: Cancelled | Attendance: 6879
+Event ID: EVT6418 | Event Name: Qatar Cup Final | Sport: Basketball | Venue: Aspire Zone Arena | City: Doha | Country: Qatar | Event Date: 2026-04-09 | Team A: Oman FC | Team B: Al Khor SC | Status: In Progress | Attendance: 20577
+Event ID: EVT7278 | Event Name: Ministry Youth Sports Day | Sport: Football | Venue: Education City Stadium | City: Al Rayyan | Country: Qatar | Event Date: 2026-05-03 | Team A: Jordan National Team | Team B: Saudi Arabia National | Status: In Progress | Attendance: 15351

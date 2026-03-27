@@ -1,0 +1,19 @@
+2026-03-26 03:28:02 [INFO] ==================================================================
+2026-03-26 03:28:02 [INFO]   MOS Qatar Demo - Sports Data Generator
+2026-03-26 03:28:02 [INFO] ==================================================================
+2026-03-26 03:28:02 [INFO] Config file   : /home/cloudera/mos_qatar_demo_poc/config/mos_qatar_demo.ini
+2026-03-26 03:28:02 [INFO] Landing dir   : /home/cloudera/mos_qatar_demo_poc/landing
+2026-03-26 03:28:02 [INFO] Output file   : mos_sports_events_20260326_032802.txt
+2026-03-26 03:28:02 [INFO] Records count : 3
+2026-03-26 03:28:02 [INFO] ------------------------------------------------------------------
+2026-03-26 03:28:02 [INFO]   Record 01: Event ID: EVT4883 | Event Name: Gulf Youth Cup Round 2 | Sport: Football | Venue: Qatar Sp...
+2026-03-26 03:28:02 [INFO]   Record 02: Event ID: EVT7482 | Event Name: Gulf Youth Cup Round 2 | Sport: Swimming | Venue: Aspire Z...
+2026-03-26 03:28:02 [INFO]   Record 03: Event ID: EVT8412 | Event Name: Ramadan Football Festival | Sport: Football | Venue: Qatar...
+2026-03-26 03:28:02 [INFO] ------------------------------------------------------------------
+2026-03-26 03:28:02 [INFO] File written successfully.
+2026-03-26 03:28:02 [INFO]   Full path : /home/cloudera/mos_qatar_demo_poc/landing/mos_sports_events_20260326_032802.txt
+2026-03-26 03:28:02 [INFO]   Size      : 742 bytes
+2026-03-26 03:28:02 [INFO]   Records   : 3
+2026-03-26 03:28:02 [INFO] ==================================================================
+2026-03-26 03:28:02 [INFO]   Generator Completed Successfully
+2026-03-26 03:28:02 [INFO] ==================================================================

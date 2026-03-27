@@ -1,0 +1,3 @@
+Event ID: EVT3701 | Event Name: Gulf Youth Cup Round 1 | Sport: Football | Venue: Khalifa International Stadium | City: Doha | Country: Qatar | Event Date: 2026-04-11 | Team A: Kuwait FC | Team B: Al Rayyan SC | Status: Scheduled | Attendance: 52421
+Event ID: EVT2830 | Event Name: Qatar Cup Semi Final | Sport: Football | Venue: Qatar Sports Club Arena | City: Doha | Country: Qatar | Event Date: 2026-04-11 | Team A: UAE National Team | Team B: Saudi Arabia National | Status: Postponed | Attendance: 56697
+Event ID: EVT6774 | Event Name: Gulf Cup Qualifier Round 1 | Sport: Football | Venue: Al Thumama Stadium | City: Doha | Country: Qatar | Event Date: 2026-04-08 | Team A: Kuwait FC | Team B: Oman FC | Status: Confirmed | Attendance: 15983

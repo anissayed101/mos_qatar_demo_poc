@@ -1,0 +1,3 @@
+Event ID: EVT2045 | Event Name: Qatar Premier League Match Day 5 | Sport: Football | Venue: Lusail Stadium | City: Lusail | Country: Qatar | Event Date: 2026-03-23 | Team A: Al Gharafa SC | Team B: UAE National Team | Status: Cancelled | Attendance: 81532
+Event ID: EVT1311 | Event Name: Arab Nations Championship Semi Final | Sport: Swimming | Venue: Education City Stadium | City: Al Rayyan | Country: Qatar | Event Date: 2026-04-26 | Team A: Al Duhail SC | Team B: Al Rayyan SC | Status: In Progress | Attendance: 15038
+Event ID: EVT8082 | Event Name: Arab Nations Championship Group Stage | Sport: Football | Venue: Aspire Zone Arena | City: Doha | Country: Qatar | Event Date: 2026-05-04 | Team A: Al Sadd SC | Team B: Al Arabi SC | Status: Cancelled | Attendance: 39192

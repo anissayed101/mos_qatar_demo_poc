@@ -1,0 +1,3 @@
+Event ID: EVT5655 | Event Name: Qatar Cup Final | Sport: Swimming | Venue: Al Janoub Stadium | City: Al Wakrah | Country: Qatar | Event Date: 2026-04-02 | Team A: Jordan U21 | Team B: Al Duhail SC | Status: Completed | Attendance: 10412
+Event ID: EVT9703 | Event Name: Qatar Schools Football League | Sport: Football | Venue: Ahmad Bin Ali Stadium | City: Al Rayyan | Country: Qatar | Event Date: 2026-04-28 | Team A: Al Sadd SC | Team B: Qatar National Team | Status: Completed | Attendance: 28332
+Event ID: EVT6818 | Event Name: Gulf Youth Cup Round 1 | Sport: Football | Venue: Al Thumama Stadium | City: Doha | Country: Qatar | Event Date: 2026-04-30 | Team A: Al Sadd SC | Team B: Qatar U21 Squad | Status: Postponed | Attendance: 38686

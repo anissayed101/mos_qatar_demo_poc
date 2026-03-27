@@ -1,0 +1,3 @@
+Event ID: EVT1647 | Event Name: Gulf Cup Qualifier Round 1 | Sport: Volleyball | Venue: Aspire Zone Arena | City: Doha | Country: Qatar | Event Date: 2026-03-27 | Team A: Jordan U21 | Team B: Qatar U17 Squad | Status: In Progress | Attendance: 47955
+Event ID: EVT1701 | Event Name: Gulf Youth Cup Round 2 | Sport: Football | Venue: Al Thumama Stadium | City: Doha | Country: Qatar | Event Date: 2026-05-04 | Team A: Qatar U17 Squad | Team B: Al Gharafa SC | Status: Scheduled | Attendance: 50964
+Event ID: EVT5277 | Event Name: Arab Nations Championship Group Stage | Sport: Handball | Venue: Khalifa International Stadium | City: Doha | Country: Qatar | Event Date: 2026-05-09 | Team A: Palestine Youth | Team B: Bahrain Youth Team | Status: Cancelled | Attendance: 75998

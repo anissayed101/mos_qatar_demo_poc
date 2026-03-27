@@ -1,0 +1,3 @@
+Event ID: EVT4872 | Event Name: Qatar Premier League Match Day 8 | Sport: Football | Venue: Aspire Zone Arena | City: Doha | Country: Qatar | Event Date: 2026-04-28 | Team A: Kuwait FC | Team B: Al Rayyan SC | Status: Scheduled | Attendance: 65734
+Event ID: EVT4885 | Event Name: Qatar Premier League Match Day 12 | Sport: Athletics | Venue: Lusail Stadium | City: Lusail | Country: Qatar | Event Date: 2026-04-21 | Team A: Qatar U17 Squad | Team B: Jordan U21 | Status: Confirmed | Attendance: 66170
+Event ID: EVT5826 | Event Name: Qatar Olympic Training Camp Evaluation | Sport: Basketball | Venue: Al Thumama Stadium | City: Doha | Country: Qatar | Event Date: 2026-04-19 | Team A: Oman FC | Team B: Palestine Youth | Status: Postponed | Attendance: 28922

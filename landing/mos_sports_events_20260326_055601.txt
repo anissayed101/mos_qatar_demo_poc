@@ -1,0 +1,3 @@
+Event ID: EVT5057 | Event Name: Gulf Youth Cup Semi Final | Sport: Football | Venue: Lusail Stadium | City: Lusail | Country: Qatar | Event Date: 2026-03-28 | Team A: Iraq National Team | Team B: Qatar U17 Squad | Status: In Progress | Attendance: 74999
+Event ID: EVT6915 | Event Name: Gulf Youth Cup Semi Final | Sport: Athletics | Venue: Al Wakrah Sports Complex | City: Al Wakrah | Country: Qatar | Event Date: 2026-03-22 | Team A: Bahrain Youth Team | Team B: Oman FC | Status: Cancelled | Attendance: 86129
+Event ID: EVT1543 | Event Name: Gulf Youth Cup Round 1 | Sport: Handball | Venue: Aspire Zone Arena | City: Doha | Country: Qatar | Event Date: 2026-04-06 | Team A: Al Sadd SC | Team B: Qatar U17 Squad | Status: Postponed | Attendance: 44392

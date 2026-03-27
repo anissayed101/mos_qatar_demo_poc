@@ -1,0 +1,3 @@
+Event ID: EVT8711 | Event Name: GCC Club Championship Quarter Final | Sport: Football | Venue: Al Thumama Stadium | City: Doha | Country: Qatar | Event Date: 2026-03-21 | Team A: Bahrain Youth Team | Team B: Al Sadd SC | Status: Postponed | Attendance: 84103
+Event ID: EVT9219 | Event Name: Gulf Cup Qualifier Round 1 | Sport: Football | Venue: Qatar Sports Club Arena | City: Doha | Country: Qatar | Event Date: 2026-05-02 | Team A: Qatar U21 Squad | Team B: Oman FC | Status: Completed | Attendance: 42605
+Event ID: EVT6950 | Event Name: Gulf Youth Cup Round 2 | Sport: Football | Venue: Aspire Zone Arena | City: Doha | Country: Qatar | Event Date: 2026-04-14 | Team A: Al Rayyan SC | Team B: Bahrain Youth Team | Status: Confirmed | Attendance: 87565

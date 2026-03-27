@@ -1,0 +1,3 @@
+Event ID: EVT4182 | Event Name: GCC Club Championship Semi Final | Sport: Football | Venue: Al Wakrah Sports Complex | City: Al Wakrah | Country: Qatar | Event Date: 2026-04-03 | Team A: Bahrain Youth Team | Team B: Al Arabi SC | Status: Postponed | Attendance: 47318
+Event ID: EVT3140 | Event Name: Ramadan Football Festival | Sport: Volleyball | Venue: Lusail Stadium | City: Lusail | Country: Qatar | Event Date: 2026-04-26 | Team A: Al Duhail SC | Team B: Al Rayyan SC | Status: Confirmed | Attendance: 54425
+Event ID: EVT7955 | Event Name: Qatar Olympic Training Camp Evaluation | Sport: Football | Venue: Ahmad Bin Ali Stadium | City: Al Rayyan | Country: Qatar | Event Date: 2026-03-28 | Team A: Al Rayyan SC | Team B: Kuwait FC | Status: Scheduled | Attendance: 71525

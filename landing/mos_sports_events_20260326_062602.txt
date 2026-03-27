@@ -1,0 +1,3 @@
+Event ID: EVT8254 | Event Name: Gulf Youth Cup Semi Final | Sport: Football | Venue: Al Bayt Stadium | City: Al Khor | Country: Qatar | Event Date: 2026-05-06 | Team A: Qatar National Team | Team B: Qatar U21 Squad | Status: Completed | Attendance: 67565
+Event ID: EVT4525 | Event Name: National Day Football Celebration | Sport: Football | Venue: Education City Stadium | City: Al Rayyan | Country: Qatar | Event Date: 2026-05-06 | Team A: Jordan National Team | Team B: UAE National Team | Status: Postponed | Attendance: 85584
+Event ID: EVT3213 | Event Name: Asian Qualifiers Warm-up Match | Sport: Volleyball | Venue: Aspire Zone Arena | City: Doha | Country: Qatar | Event Date: 2026-04-30 | Team A: Oman FC | Team B: Al Khor SC | Status: Confirmed | Attendance: 71147

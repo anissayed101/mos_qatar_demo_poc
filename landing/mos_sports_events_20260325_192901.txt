@@ -1,0 +1,3 @@
+Event ID: EVT4534 | Event Name: Arab Nations Championship Semi Final | Sport: Athletics | Venue: Al Janoub Stadium | City: Al Wakrah | Country: Qatar | Event Date: 2026-03-30 | Team A: Oman FC | Team B: Al Duhail SC | Status: Confirmed | Attendance: 37985
+Event ID: EVT6668 | Event Name: Gulf Youth Cup Round 1 | Sport: Swimming | Venue: Qatar Sports Club Arena | City: Doha | Country: Qatar | Event Date: 2026-04-15 | Team A: Jordan National Team | Team B: Al Sadd SC | Status: Confirmed | Attendance: 71515
+Event ID: EVT3837 | Event Name: National Day Football Celebration | Sport: Handball | Venue: Al Bayt Stadium | City: Al Khor | Country: Qatar | Event Date: 2026-04-19 | Team A: Al Khor SC | Team B: Qatar U21 Squad | Status: Completed | Attendance: 86140

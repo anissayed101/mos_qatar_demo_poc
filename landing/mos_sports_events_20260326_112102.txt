@@ -1,0 +1,3 @@
+Event ID: EVT7372 | Event Name: GCC Club Championship Final | Sport: Football | Venue: Lusail Stadium | City: Lusail | Country: Qatar | Event Date: 2026-04-16 | Team A: UAE National Team | Team B: Kuwait FC | Status: Completed | Attendance: 67063
+Event ID: EVT9793 | Event Name: Ministry Invitational Friendly Tournament | Sport: Football | Venue: Lusail Stadium | City: Lusail | Country: Qatar | Event Date: 2026-05-08 | Team A: Jordan U21 | Team B: Al Khor SC | Status: Postponed | Attendance: 51701
+Event ID: EVT9557 | Event Name: National Day Football Celebration | Sport: Swimming | Venue: Al Bayt Stadium | City: Al Khor | Country: Qatar | Event Date: 2026-03-25 | Team A: Qatar U17 Squad | Team B: Al Rayyan SC | Status: In Progress | Attendance: 29991

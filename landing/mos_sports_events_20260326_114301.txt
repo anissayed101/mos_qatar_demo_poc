@@ -1,0 +1,3 @@
+Event ID: EVT8073 | Event Name: Qatar Premier League Match Day 5 | Sport: Football | Venue: Al Wakrah Sports Complex | City: Al Wakrah | Country: Qatar | Event Date: 2026-04-04 | Team A: Qatar U21 Squad | Team B: Palestine Youth | Status: Cancelled | Attendance: 16246
+Event ID: EVT9253 | Event Name: Doha Sports Festival Opening Match | Sport: Football | Venue: Al Thumama Stadium | City: Doha | Country: Qatar | Event Date: 2026-05-03 | Team A: Al Rayyan SC | Team B: Qatar National Team | Status: Completed | Attendance: 13590
+Event ID: EVT2614 | Event Name: Gulf Youth Cup Quarter Final | Sport: Football | Venue: Al Bayt Stadium | City: Al Khor | Country: Qatar | Event Date: 2026-04-18 | Team A: Al Duhail SC | Team B: Jordan U21 | Status: Cancelled | Attendance: 26523

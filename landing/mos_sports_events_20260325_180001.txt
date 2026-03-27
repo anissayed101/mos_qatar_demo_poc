@@ -1,0 +1,3 @@
+Event ID: EVT9439 | Event Name: Qatar Premier League Match Day 12 | Sport: Football | Venue: Ahmad Bin Ali Stadium | City: Al Rayyan | Country: Qatar | Event Date: 2026-04-07 | Team A: Qatar National Team | Team B: Al Rayyan SC | Status: Scheduled | Attendance: 77743
+Event ID: EVT6404 | Event Name: Gulf Youth Cup Round 2 | Sport: Athletics | Venue: Education City Stadium | City: Al Rayyan | Country: Qatar | Event Date: 2026-04-14 | Team A: Oman FC | Team B: Palestine Youth | Status: Postponed | Attendance: 47246
+Event ID: EVT1099 | Event Name: Gulf Youth Cup Final | Sport: Swimming | Venue: Al Thumama Stadium | City: Doha | Country: Qatar | Event Date: 2026-03-26 | Team A: Palestine Youth | Team B: Iraq National Team | Status: Completed | Attendance: 30899

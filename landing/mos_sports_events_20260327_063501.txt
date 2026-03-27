@@ -1,0 +1,3 @@
+Event ID: EVT8625 | Event Name: Ministry Youth Sports Day | Sport: Handball | Venue: Lusail Stadium | City: Lusail | Country: Qatar | Event Date: 2026-04-07 | Team A: Qatar U21 Squad | Team B: Oman FC | Status: In Progress | Attendance: 51682
+Event ID: EVT9677 | Event Name: FIFA World Cup Qatar Legacy Match | Sport: Football | Venue: Al Bayt Stadium | City: Al Khor | Country: Qatar | Event Date: 2026-04-28 | Team A: Kuwait FC | Team B: Iraq National Team | Status: Postponed | Attendance: 67608
+Event ID: EVT8368 | Event Name: Arab Nations Championship Group Stage | Sport: Athletics | Venue: Education City Stadium | City: Al Rayyan | Country: Qatar | Event Date: 2026-03-28 | Team A: Al Duhail SC | Team B: Bahrain Youth Team | Status: Cancelled | Attendance: 9005

@@ -1,0 +1,3 @@
+Event ID: EVT5895 | Event Name: Qatar Premier League Match Day 8 | Sport: Handball | Venue: Qatar Sports Club Arena | City: Doha | Country: Qatar | Event Date: 2026-05-03 | Team A: Al Khor SC | Team B: Qatar National Team | Status: Postponed | Attendance: 11798
+Event ID: EVT7322 | Event Name: GCC Club Championship Quarter Final | Sport: Football | Venue: Lusail Stadium | City: Lusail | Country: Qatar | Event Date: 2026-03-28 | Team A: Palestine Youth | Team B: Al Rayyan SC | Status: Confirmed | Attendance: 42891
+Event ID: EVT2318 | Event Name: Qatar Premier League Match Day 12 | Sport: Basketball | Venue: Qatar Sports Club Arena | City: Doha | Country: Qatar | Event Date: 2026-03-31 | Team A: Oman FC | Team B: Palestine Youth | Status: Postponed | Attendance: 17212

@@ -1,0 +1,3 @@
+Event ID: EVT6216 | Event Name: Ministry Invitational Friendly Tournament | Sport: Football | Venue: Education City Stadium | City: Al Rayyan | Country: Qatar | Event Date: 2026-04-19 | Team A: Bahrain Youth Team | Team B: Palestine Youth | Status: Confirmed | Attendance: 55858
+Event ID: EVT2317 | Event Name: Qatar Cup Final | Sport: Swimming | Venue: Al Bayt Stadium | City: Al Khor | Country: Qatar | Event Date: 2026-05-05 | Team A: Jordan U21 | Team B: Al Gharafa SC | Status: Scheduled | Attendance: 64476
+Event ID: EVT1824 | Event Name: GCC Club Championship Quarter Final | Sport: Football | Venue: Ahmad Bin Ali Stadium | City: Al Rayyan | Country: Qatar | Event Date: 2026-03-23 | Team A: Al Sadd SC | Team B: Al Gharafa SC | Status: Completed | Attendance: 74888

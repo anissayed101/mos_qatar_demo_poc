@@ -1,0 +1,3 @@
+Event ID: EVT2417 | Event Name: Arab Nations Championship Group Stage | Sport: Football | Venue: Lusail Stadium | City: Lusail | Country: Qatar | Event Date: 2026-04-18 | Team A: Kuwait FC | Team B: Jordan U21 | Status: In Progress | Attendance: 58355
+Event ID: EVT6464 | Event Name: GCC Club Championship Final | Sport: Swimming | Venue: Qatar Sports Club Arena | City: Doha | Country: Qatar | Event Date: 2026-04-24 | Team A: Jordan U21 | Team B: Al Duhail SC | Status: Cancelled | Attendance: 82828
+Event ID: EVT1920 | Event Name: GCC Club Championship Semi Final | Sport: Football | Venue: Al Thumama Stadium | City: Doha | Country: Qatar | Event Date: 2026-04-23 | Team A: Qatar National Team | Team B: Bahrain Youth Team | Status: Cancelled | Attendance: 59911

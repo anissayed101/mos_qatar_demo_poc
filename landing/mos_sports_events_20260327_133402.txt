@@ -1,0 +1,3 @@
+Event ID: EVT6531 | Event Name: Qatar Premier League Match Day 12 | Sport: Basketball | Venue: Al Wakrah Sports Complex | City: Al Wakrah | Country: Qatar | Event Date: 2026-05-07 | Team A: Al Rayyan SC | Team B: Iraq National Team | Status: Cancelled | Attendance: 48756
+Event ID: EVT8017 | Event Name: Gulf Youth Cup Quarter Final | Sport: Football | Venue: Al Thumama Stadium | City: Doha | Country: Qatar | Event Date: 2026-04-25 | Team A: Qatar U17 Squad | Team B: Al Khor SC | Status: Completed | Attendance: 82709
+Event ID: EVT7023 | Event Name: GCC Club Championship Semi Final | Sport: Football | Venue: Education City Stadium | City: Al Rayyan | Country: Qatar | Event Date: 2026-04-15 | Team A: Jordan U21 | Team B: Al Khor SC | Status: Cancelled | Attendance: 15824

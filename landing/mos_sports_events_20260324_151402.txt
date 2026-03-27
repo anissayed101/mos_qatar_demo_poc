@@ -1,0 +1,3 @@
+Event ID: EVT2958 | Event Name: GCC Club Championship Quarter Final | Sport: Football | Venue: Al Bayt Stadium | City: Al Khor | Country: Qatar | Event Date: 2026-04-04 | Team A: Oman FC | Team B: Al Rayyan SC | Status: Confirmed | Attendance: 8974
+Event ID: EVT7991 | Event Name: Qatar Cup Final | Sport: Football | Venue: Al Wakrah Sports Complex | City: Al Wakrah | Country: Qatar | Event Date: 2026-04-10 | Team A: Iraq National Team | Team B: Oman FC | Status: Completed | Attendance: 74690
+Event ID: EVT7686 | Event Name: Qatar Premier League Match Day 5 | Sport: Handball | Venue: Aspire Zone Arena | City: Doha | Country: Qatar | Event Date: 2026-04-23 | Team A: Jordan U21 | Team B: Palestine Youth | Status: Postponed | Attendance: 33142

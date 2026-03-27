@@ -1,0 +1,46 @@
+[2026-03-24 15:03:11] ======================================================
+[2026-03-24 15:03:11]   MOS Qatar Demo - run_ingest.sh Started
+[2026-03-24 15:03:11] ======================================================
+[2026-03-24 15:03:11]   Script  : /home/cloudera/mos_qatar_demo_poc/scripts/02_ingest_to_hdfs.py
+[2026-03-24 15:03:11]   Config  : /home/cloudera/mos_qatar_demo_poc/config/mos_qatar_demo.ini
+[2026-03-24 15:03:11]   WrapLog : /home/cloudera/mos_qatar_demo_poc/logs/run_ingest_20260324_150311.log
+[2026-03-24 15:03:11]   User    : cloudera
+[2026-03-24 15:03:11]   Host    : cdp-master1.cloudera.bbi
+[2026-03-24 15:03:11] ------------------------------------------------------
+[2026-03-24 15:03:11] Launching: python3 /home/cloudera/mos_qatar_demo_poc/scripts/02_ingest_to_hdfs.py
+2026-03-24 15:03:11 [INFO] ==================================================================
+2026-03-24 15:03:11 [INFO]   MOS Qatar Demo - HDFS Raw Ingestion Started
+2026-03-24 15:03:11 [INFO] ==================================================================
+2026-03-24 15:03:11 [INFO] Landing dir    : /home/cloudera/mos_qatar_demo_poc/landing
+2026-03-24 15:03:11 [INFO] Archive dir    : /home/cloudera/mos_qatar_demo_poc/archive
+2026-03-24 15:03:11 [INFO] HDFS raw path  : /data/mos_qatar_demo/text_files/raw
+2026-03-24 15:03:11 [INFO] Tracking log   : /home/cloudera/mos_qatar_demo_poc/metadata/ingested_files.log
+2026-03-24 15:03:11 [INFO] Archive flag   : True
+2026-03-24 15:03:11 [INFO] ------------------------------------------------------------------
+2026-03-24 15:03:14 [INFO] HDFS directory confirmed: /data/mos_qatar_demo/text_files/raw
+2026-03-24 15:03:14 [INFO] Previously ingested files : 5
+2026-03-24 15:03:14 [INFO] Files found in landing    : 3
+2026-03-24 15:03:14 [INFO] INGEST : mos_sports_events_20260324_150101.txt
+2026-03-24 15:03:17 [INFO]   HDFS put OK: mos_ingest_mos_sports_events_20260324_150101.txt -> /data/mos_qatar_demo/text_files/raw/mos_sports_events_20260324_150101.txt
+2026-03-24 15:03:17 [INFO]   Archived  : mos_sports_events_20260324_150101.txt -> /home/cloudera/mos_qatar_demo_poc/archive
+2026-03-24 15:03:17 [INFO]   SUCCESS   : mos_sports_events_20260324_150101.txt
+2026-03-24 15:03:17 [INFO] INGEST : mos_sports_events_20260324_150201.txt
+2026-03-24 15:03:21 [INFO]   HDFS put OK: mos_ingest_mos_sports_events_20260324_150201.txt -> /data/mos_qatar_demo/text_files/raw/mos_sports_events_20260324_150201.txt
+2026-03-24 15:03:21 [INFO]   Archived  : mos_sports_events_20260324_150201.txt -> /home/cloudera/mos_qatar_demo_poc/archive
+2026-03-24 15:03:21 [INFO]   SUCCESS   : mos_sports_events_20260324_150201.txt
+2026-03-24 15:03:21 [INFO] INGEST : mos_sports_events_20260324_150302.txt
+2026-03-24 15:03:24 [INFO]   HDFS put OK: mos_ingest_mos_sports_events_20260324_150302.txt -> /data/mos_qatar_demo/text_files/raw/mos_sports_events_20260324_150302.txt
+2026-03-24 15:03:24 [INFO]   Archived  : mos_sports_events_20260324_150302.txt -> /home/cloudera/mos_qatar_demo_poc/archive
+2026-03-24 15:03:24 [INFO]   SUCCESS   : mos_sports_events_20260324_150302.txt
+2026-03-24 15:03:24 [INFO] ==================================================================
+2026-03-24 15:03:24 [INFO]   Ingestion Summary
+2026-03-24 15:03:24 [INFO] ------------------------------------------------------------------
+2026-03-24 15:03:24 [INFO]   Processed  :    3
+2026-03-24 15:03:24 [INFO]   Skipped    :    0
+2026-03-24 15:03:24 [INFO]   Failed     :    0
+2026-03-24 15:03:24 [INFO] ==================================================================
+2026-03-24 15:03:24 [INFO]   HDFS Raw Ingestion Completed Successfully
+2026-03-24 15:03:24 [INFO] ==================================================================
+[2026-03-24 15:03:24] ------------------------------------------------------
+[2026-03-24 15:03:24]   STATUS: SUCCESS (exit code 0)
+[2026-03-24 15:03:24] ======================================================

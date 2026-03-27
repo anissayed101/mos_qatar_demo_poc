@@ -1,0 +1,3 @@
+Event ID: EVT1906 | Event Name: Gulf Youth Cup Round 2 | Sport: Basketball | Venue: Lusail Stadium | City: Lusail | Country: Qatar | Event Date: 2026-04-21 | Team A: UAE National Team | Team B: Saudi Arabia National | Status: Scheduled | Attendance: 70819
+Event ID: EVT1487 | Event Name: Qatar Cup Semi Final | Sport: Handball | Venue: Education City Stadium | City: Al Rayyan | Country: Qatar | Event Date: 2026-05-04 | Team A: Iraq National Team | Team B: Al Sadd SC | Status: Completed | Attendance: 13809
+Event ID: EVT3740 | Event Name: FIFA World Cup Qatar Legacy Match | Sport: Handball | Venue: Al Wakrah Sports Complex | City: Al Wakrah | Country: Qatar | Event Date: 2026-03-21 | Team A: Palestine Youth | Team B: Oman FC | Status: Scheduled | Attendance: 68348

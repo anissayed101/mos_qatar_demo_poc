@@ -1,0 +1,3 @@
+Event ID: EVT7412 | Event Name: Gulf Youth Cup Round 2 | Sport: Volleyball | Venue: Ahmad Bin Ali Stadium | City: Al Rayyan | Country: Qatar | Event Date: 2026-04-16 | Team A: Al Gharafa SC | Team B: Qatar National Team | Status: Confirmed | Attendance: 67472
+Event ID: EVT1983 | Event Name: Qatar Schools Football League | Sport: Handball | Venue: Al Thumama Stadium | City: Doha | Country: Qatar | Event Date: 2026-04-19 | Team A: Oman FC | Team B: Al Khor SC | Status: In Progress | Attendance: 74786
+Event ID: EVT6187 | Event Name: Arab Nations Championship Semi Final | Sport: Football | Venue: Al Janoub Stadium | City: Al Wakrah | Country: Qatar | Event Date: 2026-04-17 | Team A: Al Sadd SC | Team B: Bahrain Youth Team | Status: Completed | Attendance: 85929

@@ -1,0 +1,3 @@
+Event ID: EVT8049 | Event Name: Qatar Cup Semi Final | Sport: Football | Venue: Education City Stadium | City: Al Rayyan | Country: Qatar | Event Date: 2026-05-07 | Team A: Al Sadd SC | Team B: Saudi Arabia National | Status: Cancelled | Attendance: 48439
+Event ID: EVT3905 | Event Name: Arab Nations Championship Semi Final | Sport: Football | Venue: Ahmad Bin Ali Stadium | City: Al Rayyan | Country: Qatar | Event Date: 2026-03-19 | Team A: Al Duhail SC | Team B: Al Rayyan SC | Status: Cancelled | Attendance: 53055
+Event ID: EVT3330 | Event Name: Asian Qualifiers Warm-up Match | Sport: Basketball | Venue: Qatar Sports Club Arena | City: Doha | Country: Qatar | Event Date: 2026-04-16 | Team A: Qatar U21 Squad | Team B: Al Duhail SC | Status: Cancelled | Attendance: 32791

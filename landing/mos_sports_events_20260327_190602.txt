@@ -1,0 +1,3 @@
+Event ID: EVT6773 | Event Name: Gulf Youth Cup Round 1 | Sport: Football | Venue: Al Bayt Stadium | City: Al Khor | Country: Qatar | Event Date: 2026-05-03 | Team A: Oman FC | Team B: Al Duhail SC | Status: Confirmed | Attendance: 79058
+Event ID: EVT5237 | Event Name: Qatar Schools Football League | Sport: Handball | Venue: Education City Stadium | City: Al Rayyan | Country: Qatar | Event Date: 2026-04-30 | Team A: Bahrain Youth Team | Team B: Al Duhail SC | Status: Cancelled | Attendance: 64767
+Event ID: EVT6287 | Event Name: Arab Nations Championship Semi Final | Sport: Basketball | Venue: Al Janoub Stadium | City: Al Wakrah | Country: Qatar | Event Date: 2026-04-05 | Team A: Palestine Youth | Team B: Jordan U21 | Status: Postponed | Attendance: 36449

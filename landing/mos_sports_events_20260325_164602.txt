@@ -1,0 +1,3 @@
+Event ID: EVT4816 | Event Name: GCC Club Championship Final | Sport: Football | Venue: Al Janoub Stadium | City: Al Wakrah | Country: Qatar | Event Date: 2026-04-04 | Team A: Jordan U21 | Team B: Iraq National Team | Status: Confirmed | Attendance: 47266
+Event ID: EVT9657 | Event Name: Gulf Youth Cup Round 2 | Sport: Football | Venue: Al Bayt Stadium | City: Al Khor | Country: Qatar | Event Date: 2026-04-15 | Team A: Al Rayyan SC | Team B: Oman FC | Status: Confirmed | Attendance: 60868
+Event ID: EVT4746 | Event Name: Qatar Cup Semi Final | Sport: Football | Venue: Al Janoub Stadium | City: Al Wakrah | Country: Qatar | Event Date: 2026-05-08 | Team A: Al Rayyan SC | Team B: Al Arabi SC | Status: In Progress | Attendance: 61403

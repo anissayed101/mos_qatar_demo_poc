@@ -1,0 +1,3 @@
+Event ID: EVT1667 | Event Name: Doha Sports Festival Opening Match | Sport: Football | Venue: Al Bayt Stadium | City: Al Khor | Country: Qatar | Event Date: 2026-04-16 | Team A: UAE National Team | Team B: Al Khor SC | Status: In Progress | Attendance: 69997
+Event ID: EVT5125 | Event Name: Qatar Under-20 Development League | Sport: Swimming | Venue: Qatar Sports Club Arena | City: Doha | Country: Qatar | Event Date: 2026-04-03 | Team A: Al Duhail SC | Team B: Al Gharafa SC | Status: In Progress | Attendance: 48702
+Event ID: EVT4164 | Event Name: GCC Club Championship Final | Sport: Athletics | Venue: Qatar Sports Club Arena | City: Doha | Country: Qatar | Event Date: 2026-05-03 | Team A: Al Duhail SC | Team B: Jordan National Team | Status: Postponed | Attendance: 47633

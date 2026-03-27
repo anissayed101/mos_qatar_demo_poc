@@ -1,0 +1,3 @@
+Event ID: EVT9973 | Event Name: Gulf Youth Cup Semi Final | Sport: Basketball | Venue: Aspire Zone Arena | City: Doha | Country: Qatar | Event Date: 2026-04-29 | Team A: Qatar U21 Squad | Team B: Al Rayyan SC | Status: Completed | Attendance: 32474
+Event ID: EVT5442 | Event Name: Gulf Youth Cup Round 2 | Sport: Handball | Venue: Al Bayt Stadium | City: Al Khor | Country: Qatar | Event Date: 2026-05-03 | Team A: Iraq National Team | Team B: Al Rayyan SC | Status: Completed | Attendance: 29804
+Event ID: EVT5138 | Event Name: National Day Football Celebration | Sport: Swimming | Venue: Qatar Sports Club Arena | City: Doha | Country: Qatar | Event Date: 2026-05-04 | Team A: Qatar National Team | Team B: Al Arabi SC | Status: Postponed | Attendance: 20458

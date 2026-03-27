@@ -1,0 +1,3 @@
+Event ID: EVT6866 | Event Name: Asian Qualifiers Warm-up Match | Sport: Football | Venue: Ahmad Bin Ali Stadium | City: Al Rayyan | Country: Qatar | Event Date: 2026-04-21 | Team A: Al Rayyan SC | Team B: Qatar U17 Squad | Status: Scheduled | Attendance: 17912
+Event ID: EVT8462 | Event Name: Gulf Cup Qualifier Round 1 | Sport: Athletics | Venue: Qatar Sports Club Arena | City: Doha | Country: Qatar | Event Date: 2026-05-02 | Team A: Qatar National Team | Team B: Kuwait FC | Status: Confirmed | Attendance: 32513
+Event ID: EVT3712 | Event Name: Ministry Youth Sports Day | Sport: Swimming | Venue: Khalifa International Stadium | City: Doha | Country: Qatar | Event Date: 2026-04-26 | Team A: Al Gharafa SC | Team B: UAE National Team | Status: Confirmed | Attendance: 75419

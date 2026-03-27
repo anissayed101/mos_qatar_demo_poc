@@ -1,0 +1,3 @@
+Event ID: EVT5845 | Event Name: Ministry Youth Sports Day | Sport: Handball | Venue: Al Janoub Stadium | City: Al Wakrah | Country: Qatar | Event Date: 2026-04-14 | Team A: Jordan U21 | Team B: UAE National Team | Status: Postponed | Attendance: 81495
+Event ID: EVT7175 | Event Name: Gulf Youth Cup Round 1 | Sport: Football | Venue: Qatar Sports Club Arena | City: Doha | Country: Qatar | Event Date: 2026-04-30 | Team A: Jordan National Team | Team B: Qatar U17 Squad | Status: Confirmed | Attendance: 49472
+Event ID: EVT2725 | Event Name: Arab Nations Championship Group Stage | Sport: Football | Venue: Qatar Sports Club Arena | City: Doha | Country: Qatar | Event Date: 2026-04-15 | Team A: Qatar National Team | Team B: Kuwait FC | Status: Completed | Attendance: 36639

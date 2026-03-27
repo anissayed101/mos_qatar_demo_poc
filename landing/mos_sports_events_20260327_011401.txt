@@ -1,0 +1,3 @@
+Event ID: EVT6102 | Event Name: Qatar Cup Final | Sport: Football | Venue: Aspire Zone Arena | City: Doha | Country: Qatar | Event Date: 2026-05-11 | Team A: Oman FC | Team B: Palestine Youth | Status: Scheduled | Attendance: 29788
+Event ID: EVT5231 | Event Name: Gulf Youth Cup Round 2 | Sport: Handball | Venue: Al Wakrah Sports Complex | City: Al Wakrah | Country: Qatar | Event Date: 2026-04-05 | Team A: Qatar U17 Squad | Team B: Jordan U21 | Status: Scheduled | Attendance: 8596
+Event ID: EVT5910 | Event Name: Gulf Youth Cup Quarter Final | Sport: Athletics | Venue: Aspire Zone Arena | City: Doha | Country: Qatar | Event Date: 2026-04-13 | Team A: Jordan U21 | Team B: Al Arabi SC | Status: Scheduled | Attendance: 50064

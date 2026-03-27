@@ -1,0 +1,3 @@
+Event ID: EVT4786 | Event Name: GCC Club Championship Final | Sport: Football | Venue: Aspire Zone Arena | City: Doha | Country: Qatar | Event Date: 2026-04-15 | Team A: Al Khor SC | Team B: Palestine Youth | Status: In Progress | Attendance: 19993
+Event ID: EVT7606 | Event Name: Gulf Cup Qualifier Round 1 | Sport: Football | Venue: Khalifa International Stadium | City: Doha | Country: Qatar | Event Date: 2026-04-25 | Team A: Al Arabi SC | Team B: Al Gharafa SC | Status: In Progress | Attendance: 75092
+Event ID: EVT9746 | Event Name: GCC Club Championship Final | Sport: Basketball | Venue: Al Wakrah Sports Complex | City: Al Wakrah | Country: Qatar | Event Date: 2026-04-11 | Team A: Qatar U17 Squad | Team B: Saudi Arabia National | Status: Postponed | Attendance: 45086

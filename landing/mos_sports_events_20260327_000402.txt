@@ -1,0 +1,3 @@
+Event ID: EVT1410 | Event Name: GCC Club Championship Final | Sport: Volleyball | Venue: Lusail Stadium | City: Lusail | Country: Qatar | Event Date: 2026-04-12 | Team A: Al Sadd SC | Team B: Jordan National Team | Status: Postponed | Attendance: 8244
+Event ID: EVT9117 | Event Name: FIFA World Cup Qatar Legacy Match | Sport: Football | Venue: Education City Stadium | City: Al Rayyan | Country: Qatar | Event Date: 2026-04-15 | Team A: Al Rayyan SC | Team B: Al Arabi SC | Status: Confirmed | Attendance: 33403
+Event ID: EVT1519 | Event Name: Gulf Youth Cup Round 1 | Sport: Football | Venue: Al Thumama Stadium | City: Doha | Country: Qatar | Event Date: 2026-03-31 | Team A: Qatar U17 Squad | Team B: Jordan U21 | Status: Scheduled | Attendance: 25050

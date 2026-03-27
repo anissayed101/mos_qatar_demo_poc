@@ -1,0 +1,3 @@
+Event ID: EVT6992 | Event Name: Gulf Cup Qualifier Round 1 | Sport: Athletics | Venue: Al Bayt Stadium | City: Al Khor | Country: Qatar | Event Date: 2026-05-07 | Team A: Jordan National Team | Team B: Al Rayyan SC | Status: Postponed | Attendance: 70818
+Event ID: EVT9975 | Event Name: Qatar Schools Football League | Sport: Volleyball | Venue: Ahmad Bin Ali Stadium | City: Al Rayyan | Country: Qatar | Event Date: 2026-04-21 | Team A: Oman FC | Team B: Al Khor SC | Status: Scheduled | Attendance: 55003
+Event ID: EVT3312 | Event Name: Qatar Cup Final | Sport: Football | Venue: Al Wakrah Sports Complex | City: Al Wakrah | Country: Qatar | Event Date: 2026-05-07 | Team A: Jordan U21 | Team B: Jordan National Team | Status: Confirmed | Attendance: 80212

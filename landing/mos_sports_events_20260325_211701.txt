@@ -1,0 +1,3 @@
+Event ID: EVT2475 | Event Name: Gulf Youth Cup Round 1 | Sport: Football | Venue: Al Thumama Stadium | City: Doha | Country: Qatar | Event Date: 2026-05-04 | Team A: Qatar U17 Squad | Team B: Jordan U21 | Status: In Progress | Attendance: 53031
+Event ID: EVT2844 | Event Name: Arab Nations Championship Group Stage | Sport: Football | Venue: Lusail Stadium | City: Lusail | Country: Qatar | Event Date: 2026-04-07 | Team A: Al Khor SC | Team B: Jordan U21 | Status: Completed | Attendance: 49185
+Event ID: EVT5072 | Event Name: Qatar Premier League Match Day 8 | Sport: Football | Venue: Education City Stadium | City: Al Rayyan | Country: Qatar | Event Date: 2026-03-26 | Team A: Al Gharafa SC | Team B: Qatar U17 Squad | Status: Completed | Attendance: 40138

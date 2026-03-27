@@ -1,0 +1,3 @@
+Event ID: EVT3966 | Event Name: Gulf Youth Cup Final | Sport: Handball | Venue: Ahmad Bin Ali Stadium | City: Al Rayyan | Country: Qatar | Event Date: 2026-05-04 | Team A: Qatar U21 Squad | Team B: Kuwait FC | Status: Cancelled | Attendance: 55938
+Event ID: EVT1196 | Event Name: Gulf Youth Cup Final | Sport: Basketball | Venue: Al Bayt Stadium | City: Al Khor | Country: Qatar | Event Date: 2026-03-27 | Team A: Iraq National Team | Team B: Al Khor SC | Status: Postponed | Attendance: 48659
+Event ID: EVT5048 | Event Name: National Day Football Celebration | Sport: Football | Venue: Lusail Stadium | City: Lusail | Country: Qatar | Event Date: 2026-04-08 | Team A: Al Gharafa SC | Team B: Bahrain Youth Team | Status: Scheduled | Attendance: 57474

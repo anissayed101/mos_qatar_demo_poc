@@ -1,0 +1,3 @@
+Event ID: EVT2800 | Event Name: Qatar Cup Final | Sport: Football | Venue: Al Thumama Stadium | City: Doha | Country: Qatar | Event Date: 2026-04-18 | Team A: Jordan U21 | Team B: Kuwait FC | Status: Postponed | Attendance: 69379
+Event ID: EVT1092 | Event Name: Arab Nations Championship Semi Final | Sport: Basketball | Venue: Al Thumama Stadium | City: Doha | Country: Qatar | Event Date: 2026-05-06 | Team A: Bahrain Youth Team | Team B: Al Khor SC | Status: In Progress | Attendance: 43324
+Event ID: EVT9412 | Event Name: Qatar Cup Final | Sport: Volleyball | Venue: Al Thumama Stadium | City: Doha | Country: Qatar | Event Date: 2026-05-08 | Team A: Iraq National Team | Team B: Kuwait FC | Status: Completed | Attendance: 8788

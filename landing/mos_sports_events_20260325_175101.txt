@@ -1,0 +1,3 @@
+Event ID: EVT1259 | Event Name: Gulf Youth Cup Quarter Final | Sport: Basketball | Venue: Al Janoub Stadium | City: Al Wakrah | Country: Qatar | Event Date: 2026-03-25 | Team A: Oman FC | Team B: Jordan National Team | Status: Cancelled | Attendance: 24681
+Event ID: EVT4209 | Event Name: Gulf Youth Cup Round 2 | Sport: Football | Venue: Aspire Zone Arena | City: Doha | Country: Qatar | Event Date: 2026-03-27 | Team A: Bahrain Youth Team | Team B: Palestine Youth | Status: Completed | Attendance: 60324
+Event ID: EVT7843 | Event Name: Gulf Youth Cup Round 1 | Sport: Volleyball | Venue: Ahmad Bin Ali Stadium | City: Al Rayyan | Country: Qatar | Event Date: 2026-05-03 | Team A: Al Duhail SC | Team B: Jordan National Team | Status: Completed | Attendance: 22668

@@ -1,0 +1,3 @@
+Event ID: EVT6024 | Event Name: Arab Nations Championship Group Stage | Sport: Athletics | Venue: Ahmad Bin Ali Stadium | City: Al Rayyan | Country: Qatar | Event Date: 2026-04-02 | Team A: UAE National Team | Team B: Al Khor SC | Status: Scheduled | Attendance: 60934
+Event ID: EVT9849 | Event Name: GCC Club Championship Final | Sport: Athletics | Venue: Al Bayt Stadium | City: Al Khor | Country: Qatar | Event Date: 2026-04-27 | Team A: Al Arabi SC | Team B: Jordan U21 | Status: Cancelled | Attendance: 76271
+Event ID: EVT2500 | Event Name: GCC Club Championship Final | Sport: Football | Venue: Al Bayt Stadium | City: Al Khor | Country: Qatar | Event Date: 2026-04-20 | Team A: Qatar U21 Squad | Team B: Palestine Youth | Status: Completed | Attendance: 52254

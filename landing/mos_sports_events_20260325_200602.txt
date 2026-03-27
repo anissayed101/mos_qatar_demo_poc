@@ -1,0 +1,3 @@
+Event ID: EVT4511 | Event Name: National Team Preparation Match | Sport: Swimming | Venue: Al Bayt Stadium | City: Al Khor | Country: Qatar | Event Date: 2026-04-29 | Team A: Al Sadd SC | Team B: Al Arabi SC | Status: In Progress | Attendance: 86636
+Event ID: EVT4375 | Event Name: Qatar Cup Final | Sport: Handball | Venue: Aspire Zone Arena | City: Doha | Country: Qatar | Event Date: 2026-04-02 | Team A: Oman FC | Team B: Iraq National Team | Status: Confirmed | Attendance: 45166
+Event ID: EVT3545 | Event Name: Gulf Youth Cup Final | Sport: Volleyball | Venue: Al Wakrah Sports Complex | City: Al Wakrah | Country: Qatar | Event Date: 2026-04-26 | Team A: Jordan U21 | Team B: Oman FC | Status: Confirmed | Attendance: 31493

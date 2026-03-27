@@ -1,0 +1,3 @@
+Event ID: EVT4508 | Event Name: GCC Club Championship Semi Final | Sport: Football | Venue: Aspire Zone Arena | City: Doha | Country: Qatar | Event Date: 2026-05-08 | Team A: Palestine Youth | Team B: UAE National Team | Status: Scheduled | Attendance: 9660
+Event ID: EVT5820 | Event Name: Qatar Schools Football League | Sport: Swimming | Venue: Qatar Sports Club Arena | City: Doha | Country: Qatar | Event Date: 2026-03-21 | Team A: Al Sadd SC | Team B: Al Rayyan SC | Status: Postponed | Attendance: 68647
+Event ID: EVT8847 | Event Name: Gulf Youth Cup Final | Sport: Swimming | Venue: Al Thumama Stadium | City: Doha | Country: Qatar | Event Date: 2026-04-16 | Team A: Oman FC | Team B: Qatar National Team | Status: Cancelled | Attendance: 28460

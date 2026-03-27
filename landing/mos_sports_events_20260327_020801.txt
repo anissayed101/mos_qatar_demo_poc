@@ -1,0 +1,3 @@
+Event ID: EVT6435 | Event Name: Gulf Youth Cup Round 2 | Sport: Football | Venue: Qatar Sports Club Arena | City: Doha | Country: Qatar | Event Date: 2026-03-26 | Team A: Qatar National Team | Team B: Al Gharafa SC | Status: Completed | Attendance: 41837
+Event ID: EVT4347 | Event Name: Qatar Schools Football League | Sport: Football | Venue: Al Bayt Stadium | City: Al Khor | Country: Qatar | Event Date: 2026-03-25 | Team A: Palestine Youth | Team B: Jordan National Team | Status: Cancelled | Attendance: 60392
+Event ID: EVT2279 | Event Name: Gulf Youth Cup Quarter Final | Sport: Football | Venue: Education City Stadium | City: Al Rayyan | Country: Qatar | Event Date: 2026-04-24 | Team A: Al Khor SC | Team B: Al Rayyan SC | Status: In Progress | Attendance: 73826

@@ -1,0 +1,23 @@
+2026-03-26 09:15:01 [INFO] ==================================================================
+2026-03-26 09:15:01 [INFO]   MOS Qatar Demo - Sports Data Generator
+2026-03-26 09:15:01 [INFO] ==================================================================
+2026-03-26 09:15:01 [INFO] Config file   : /home/cloudera/mos_qatar_demo_poc/config/mos_qatar_demo.ini
+2026-03-26 09:15:01 [INFO] Landing dir   : /home/cloudera/mos_qatar_demo_poc/landing
+2026-03-26 09:15:01 [INFO] Output file   : mos_sports_events_20260326_091501.txt
+2026-03-26 09:15:01 [INFO] Records count : 7
+2026-03-26 09:15:01 [INFO] ------------------------------------------------------------------
+2026-03-26 09:15:01 [INFO]   Record 01: Event ID: EVT7360 | Event Name: Ramadan Football Festival | Sport: Football | Venue: Al Wa...
+2026-03-26 09:15:01 [INFO]   Record 02: Event ID: EVT6117 | Event Name: Gulf Youth Cup Round 1 | Sport: Football | Venue: Aspire Z...
+2026-03-26 09:15:01 [INFO]   Record 03: Event ID: EVT1051 | Event Name: FIFA World Cup Qatar Legacy Match | Sport: Football | Venu...
+2026-03-26 09:15:01 [INFO]   Record 04: Event ID: EVT8457 | Event Name: GCC Club Championship Final | Sport: Athletics | Venue: As...
+2026-03-26 09:15:01 [INFO]   Record 05: Event ID: EVT3669 | Event Name: Gulf Cup Qualifier Round 1 | Sport: Volleyball | Venue: Lu...
+2026-03-26 09:15:01 [INFO]   Record 06: Event ID: EVT1107 | Event Name: Qatar Cup Semi Final | Sport: Swimming | Venue: Al Wakrah ...
+2026-03-26 09:15:01 [INFO]   Record 07: Event ID: EVT5798 | Event Name: Gulf Youth Cup Quarter Final | Sport: Athletics | Venue: A...
+2026-03-26 09:15:01 [INFO] ------------------------------------------------------------------
+2026-03-26 09:15:01 [INFO] File written successfully.
+2026-03-26 09:15:01 [INFO]   Full path : /home/cloudera/mos_qatar_demo_poc/landing/mos_sports_events_20260326_091501.txt
+2026-03-26 09:15:01 [INFO]   Size      : 1788 bytes
+2026-03-26 09:15:01 [INFO]   Records   : 7
+2026-03-26 09:15:01 [INFO] ==================================================================
+2026-03-26 09:15:01 [INFO]   Generator Completed Successfully
+2026-03-26 09:15:01 [INFO] ==================================================================

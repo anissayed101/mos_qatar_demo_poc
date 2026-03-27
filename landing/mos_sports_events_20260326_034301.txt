@@ -1,0 +1,3 @@
+Event ID: EVT6973 | Event Name: Qatar Cup Final | Sport: Swimming | Venue: Al Wakrah Sports Complex | City: Al Wakrah | Country: Qatar | Event Date: 2026-03-23 | Team A: Al Rayyan SC | Team B: Al Duhail SC | Status: Postponed | Attendance: 8596
+Event ID: EVT2898 | Event Name: Qatar Cup Final | Sport: Football | Venue: Al Thumama Stadium | City: Doha | Country: Qatar | Event Date: 2026-04-02 | Team A: Al Khor SC | Team B: Qatar U21 Squad | Status: Scheduled | Attendance: 85385
+Event ID: EVT8813 | Event Name: Qatar Schools Football League | Sport: Handball | Venue: Al Wakrah Sports Complex | City: Al Wakrah | Country: Qatar | Event Date: 2026-04-29 | Team A: Jordan U21 | Team B: Al Arabi SC | Status: Completed | Attendance: 46143

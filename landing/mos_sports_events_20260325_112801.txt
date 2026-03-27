@@ -1,0 +1,3 @@
+Event ID: EVT1524 | Event Name: Gulf Youth Cup Quarter Final | Sport: Football | Venue: Lusail Stadium | City: Lusail | Country: Qatar | Event Date: 2026-04-11 | Team A: Qatar U21 Squad | Team B: Kuwait FC | Status: Cancelled | Attendance: 87940
+Event ID: EVT9829 | Event Name: Gulf Youth Cup Final | Sport: Football | Venue: Al Thumama Stadium | City: Doha | Country: Qatar | Event Date: 2026-04-01 | Team A: Iraq National Team | Team B: Al Gharafa SC | Status: Postponed | Attendance: 83543
+Event ID: EVT5541 | Event Name: National Team Preparation Match | Sport: Swimming | Venue: Al Bayt Stadium | City: Al Khor | Country: Qatar | Event Date: 2026-03-23 | Team A: Al Rayyan SC | Team B: Jordan National Team | Status: Confirmed | Attendance: 37070

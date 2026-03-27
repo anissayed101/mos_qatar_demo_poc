@@ -1,0 +1,3 @@
+Event ID: EVT1808 | Event Name: Qatar Schools Football League | Sport: Athletics | Venue: Qatar Sports Club Arena | City: Doha | Country: Qatar | Event Date: 2026-03-25 | Team A: UAE National Team | Team B: Al Khor SC | Status: Cancelled | Attendance: 7586
+Event ID: EVT3515 | Event Name: Qatar Olympic Training Camp Evaluation | Sport: Basketball | Venue: Al Bayt Stadium | City: Al Khor | Country: Qatar | Event Date: 2026-04-30 | Team A: Bahrain Youth Team | Team B: Oman FC | Status: Confirmed | Attendance: 71903
+Event ID: EVT4840 | Event Name: Gulf Cup Qualifier Round 1 | Sport: Football | Venue: Aspire Zone Arena | City: Doha | Country: Qatar | Event Date: 2026-04-25 | Team A: Al Sadd SC | Team B: Jordan U21 | Status: Completed | Attendance: 22285

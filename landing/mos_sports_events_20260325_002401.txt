@@ -1,0 +1,3 @@
+Event ID: EVT9912 | Event Name: Gulf Youth Cup Round 1 | Sport: Basketball | Venue: Al Janoub Stadium | City: Al Wakrah | Country: Qatar | Event Date: 2026-03-21 | Team A: Oman FC | Team B: Al Khor SC | Status: Confirmed | Attendance: 78728
+Event ID: EVT4907 | Event Name: Ministry Invitational Friendly Tournament | Sport: Football | Venue: Ahmad Bin Ali Stadium | City: Al Rayyan | Country: Qatar | Event Date: 2026-04-29 | Team A: Jordan National Team | Team B: UAE National Team | Status: Scheduled | Attendance: 12940
+Event ID: EVT2474 | Event Name: National Day Football Celebration | Sport: Football | Venue: Al Janoub Stadium | City: Al Wakrah | Country: Qatar | Event Date: 2026-03-30 | Team A: Al Duhail SC | Team B: Al Arabi SC | Status: Confirmed | Attendance: 56282

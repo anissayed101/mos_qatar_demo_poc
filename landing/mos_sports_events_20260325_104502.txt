@@ -1,0 +1,3 @@
+Event ID: EVT1777 | Event Name: GCC Club Championship Final | Sport: Football | Venue: Education City Stadium | City: Al Rayyan | Country: Qatar | Event Date: 2026-04-13 | Team A: Qatar U21 Squad | Team B: Palestine Youth | Status: Scheduled | Attendance: 74901
+Event ID: EVT8509 | Event Name: Qatar Premier League Match Day 8 | Sport: Basketball | Venue: Lusail Stadium | City: Lusail | Country: Qatar | Event Date: 2026-05-07 | Team A: UAE National Team | Team B: Jordan U21 | Status: Confirmed | Attendance: 31669
+Event ID: EVT6987 | Event Name: Ministry Youth Sports Day | Sport: Football | Venue: Qatar Sports Club Arena | City: Doha | Country: Qatar | Event Date: 2026-05-02 | Team A: Qatar U21 Squad | Team B: Iraq National Team | Status: Scheduled | Attendance: 64045

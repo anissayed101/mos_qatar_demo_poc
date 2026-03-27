@@ -1,0 +1,3 @@
+Event ID: EVT7374 | Event Name: GCC Club Championship Quarter Final | Sport: Football | Venue: Al Thumama Stadium | City: Doha | Country: Qatar | Event Date: 2026-03-21 | Team A: Al Khor SC | Team B: Iraq National Team | Status: Completed | Attendance: 25366
+Event ID: EVT9968 | Event Name: Qatar Cup Final | Sport: Football | Venue: Al Thumama Stadium | City: Doha | Country: Qatar | Event Date: 2026-03-30 | Team A: Saudi Arabia National | Team B: Jordan National Team | Status: Cancelled | Attendance: 23813
+Event ID: EVT4209 | Event Name: Qatar Cup Final | Sport: Handball | Venue: Aspire Zone Arena | City: Doha | Country: Qatar | Event Date: 2026-04-20 | Team A: Qatar U17 Squad | Team B: Al Sadd SC | Status: Completed | Attendance: 61708

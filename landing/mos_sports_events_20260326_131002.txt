@@ -1,0 +1,3 @@
+Event ID: EVT8876 | Event Name: Qatar Premier League Match Day 8 | Sport: Athletics | Venue: Aspire Zone Arena | City: Doha | Country: Qatar | Event Date: 2026-05-06 | Team A: Qatar National Team | Team B: Al Sadd SC | Status: Cancelled | Attendance: 82750
+Event ID: EVT7314 | Event Name: Qatar Premier League Match Day 8 | Sport: Swimming | Venue: Al Janoub Stadium | City: Al Wakrah | Country: Qatar | Event Date: 2026-04-22 | Team A: Al Duhail SC | Team B: Qatar U17 Squad | Status: Confirmed | Attendance: 75121
+Event ID: EVT9876 | Event Name: GCC Club Championship Final | Sport: Football | Venue: Lusail Stadium | City: Lusail | Country: Qatar | Event Date: 2026-04-24 | Team A: Oman FC | Team B: Al Arabi SC | Status: Cancelled | Attendance: 28211

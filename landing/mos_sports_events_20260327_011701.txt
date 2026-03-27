@@ -1,0 +1,3 @@
+Event ID: EVT4226 | Event Name: Gulf Cup Qualifier Round 1 | Sport: Football | Venue: Lusail Stadium | City: Lusail | Country: Qatar | Event Date: 2026-05-03 | Team A: Al Sadd SC | Team B: Kuwait FC | Status: Postponed | Attendance: 84113
+Event ID: EVT9112 | Event Name: Ministry Youth Sports Day | Sport: Football | Venue: Al Wakrah Sports Complex | City: Al Wakrah | Country: Qatar | Event Date: 2026-04-30 | Team A: Al Gharafa SC | Team B: Al Sadd SC | Status: Cancelled | Attendance: 31094
+Event ID: EVT7521 | Event Name: GCC Club Championship Quarter Final | Sport: Football | Venue: Ahmad Bin Ali Stadium | City: Al Rayyan | Country: Qatar | Event Date: 2026-03-26 | Team A: Al Khor SC | Team B: Al Rayyan SC | Status: Scheduled | Attendance: 17367

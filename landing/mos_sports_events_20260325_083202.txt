@@ -1,0 +1,3 @@
+Event ID: EVT1847 | Event Name: National Team Preparation Match | Sport: Athletics | Venue: Khalifa International Stadium | City: Doha | Country: Qatar | Event Date: 2026-04-16 | Team A: Al Duhail SC | Team B: Jordan U21 | Status: Scheduled | Attendance: 33912
+Event ID: EVT9244 | Event Name: Qatar Cup Final | Sport: Football | Venue: Lusail Stadium | City: Lusail | Country: Qatar | Event Date: 2026-04-17 | Team A: Qatar U21 Squad | Team B: Al Gharafa SC | Status: Cancelled | Attendance: 18291
+Event ID: EVT1057 | Event Name: Gulf Youth Cup Round 2 | Sport: Volleyball | Venue: Lusail Stadium | City: Lusail | Country: Qatar | Event Date: 2026-04-05 | Team A: Jordan U21 | Team B: Kuwait FC | Status: Confirmed | Attendance: 43271

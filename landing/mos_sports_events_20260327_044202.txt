@@ -1,0 +1,3 @@
+Event ID: EVT5756 | Event Name: Gulf Cup Qualifier Round 1 | Sport: Football | Venue: Khalifa International Stadium | City: Doha | Country: Qatar | Event Date: 2026-04-05 | Team A: Oman FC | Team B: Saudi Arabia National | Status: Completed | Attendance: 11263
+Event ID: EVT1875 | Event Name: GCC Club Championship Final | Sport: Volleyball | Venue: Lusail Stadium | City: Lusail | Country: Qatar | Event Date: 2026-05-09 | Team A: Qatar U17 Squad | Team B: Kuwait FC | Status: In Progress | Attendance: 63399
+Event ID: EVT6008 | Event Name: Gulf Youth Cup Semi Final | Sport: Football | Venue: Ahmad Bin Ali Stadium | City: Al Rayyan | Country: Qatar | Event Date: 2026-04-16 | Team A: Qatar National Team | Team B: Al Arabi SC | Status: Cancelled | Attendance: 9586

@@ -3,18 +3,18 @@
 # setup_local.sh
 # Qatar Ministry of Sports Demo - One-Time Local Linux Setup
 #
-# Creates all required local directories under /home/cloudera/mos_qatar_demo_poc,
+# Creates all required local directories under /opt/mos_qatar_demo,
 # sets ownership to cloudera:cloudera, and initialises tracking logs.
 #
 # Run ONCE as root (or via sudo) on cdp-master1 (node 131):
-#   sudo bash /home/cloudera/mos_qatar_demo_poc/run/setup_local.sh
+#   sudo bash /opt/mos_qatar_demo/run/setup_local.sh
 #
 # After this, all runtime jobs run as user 'cloudera'.
 # ==============================================================
 
 set -euo pipefail
 
-BASE_DIR="/home/cloudera/mos_qatar_demo_poc"
+BASE_DIR="/opt/mos_qatar_demo"
 OWNER="cloudera"
 GROUP="cloudera"
 

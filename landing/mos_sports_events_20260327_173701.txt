@@ -1,0 +1,3 @@
+Event ID: EVT6331 | Event Name: GCC Club Championship Final | Sport: Swimming | Venue: Ahmad Bin Ali Stadium | City: Al Rayyan | Country: Qatar | Event Date: 2026-04-08 | Team A: Saudi Arabia National | Team B: Al Rayyan SC | Status: In Progress | Attendance: 65761
+Event ID: EVT2887 | Event Name: Gulf Cup Qualifier Round 1 | Sport: Football | Venue: Aspire Zone Arena | City: Doha | Country: Qatar | Event Date: 2026-03-26 | Team A: Qatar National Team | Team B: Al Duhail SC | Status: Postponed | Attendance: 48373
+Event ID: EVT4568 | Event Name: Ministry Youth Sports Day | Sport: Basketball | Venue: Al Wakrah Sports Complex | City: Al Wakrah | Country: Qatar | Event Date: 2026-04-13 | Team A: Jordan U21 | Team B: Oman FC | Status: Cancelled | Attendance: 68866

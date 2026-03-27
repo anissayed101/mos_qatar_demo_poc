@@ -1,0 +1,3 @@
+Event ID: EVT8608 | Event Name: Qatar Premier League Match Day 12 | Sport: Handball | Venue: Aspire Zone Arena | City: Doha | Country: Qatar | Event Date: 2026-04-23 | Team A: Qatar U17 Squad | Team B: Al Duhail SC | Status: Completed | Attendance: 29170
+Event ID: EVT9560 | Event Name: Ministry Invitational Friendly Tournament | Sport: Football | Venue: Al Wakrah Sports Complex | City: Al Wakrah | Country: Qatar | Event Date: 2026-04-14 | Team A: Saudi Arabia National | Team B: Jordan U21 | Status: Confirmed | Attendance: 17383
+Event ID: EVT4519 | Event Name: Qatar Cup Final | Sport: Handball | Venue: Al Janoub Stadium | City: Al Wakrah | Country: Qatar | Event Date: 2026-04-21 | Team A: Oman FC | Team B: Al Khor SC | Status: In Progress | Attendance: 87417

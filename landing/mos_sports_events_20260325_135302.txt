@@ -1,0 +1,3 @@
+Event ID: EVT7823 | Event Name: Asian Qualifiers Warm-up Match | Sport: Swimming | Venue: Lusail Stadium | City: Lusail | Country: Qatar | Event Date: 2026-05-06 | Team A: Iraq National Team | Team B: Oman FC | Status: Postponed | Attendance: 48778
+Event ID: EVT1038 | Event Name: Qatar Premier League Match Day 8 | Sport: Handball | Venue: Education City Stadium | City: Al Rayyan | Country: Qatar | Event Date: 2026-03-28 | Team A: Jordan U21 | Team B: Jordan National Team | Status: Cancelled | Attendance: 66804
+Event ID: EVT6864 | Event Name: Qatar Premier League Match Day 12 | Sport: Handball | Venue: Al Thumama Stadium | City: Doha | Country: Qatar | Event Date: 2026-04-24 | Team A: Al Duhail SC | Team B: Jordan National Team | Status: Scheduled | Attendance: 21940

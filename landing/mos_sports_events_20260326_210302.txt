@@ -1,0 +1,3 @@
+Event ID: EVT4830 | Event Name: Gulf Youth Cup Semi Final | Sport: Football | Venue: Ahmad Bin Ali Stadium | City: Al Rayyan | Country: Qatar | Event Date: 2026-05-10 | Team A: Qatar National Team | Team B: Bahrain Youth Team | Status: Cancelled | Attendance: 7910
+Event ID: EVT3416 | Event Name: Ramadan Football Festival | Sport: Football | Venue: Al Bayt Stadium | City: Al Khor | Country: Qatar | Event Date: 2026-03-21 | Team A: Al Rayyan SC | Team B: Qatar U21 Squad | Status: Completed | Attendance: 37850
+Event ID: EVT9839 | Event Name: Ramadan Football Festival | Sport: Handball | Venue: Qatar Sports Club Arena | City: Doha | Country: Qatar | Event Date: 2026-04-12 | Team A: Bahrain Youth Team | Team B: Al Arabi SC | Status: Completed | Attendance: 69268

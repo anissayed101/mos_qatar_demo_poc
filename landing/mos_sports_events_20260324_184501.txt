@@ -1,0 +1,3 @@
+Event ID: EVT1816 | Event Name: Doha Sports Festival Opening Match | Sport: Football | Venue: Qatar Sports Club Arena | City: Doha | Country: Qatar | Event Date: 2026-03-24 | Team A: Al Khor SC | Team B: Jordan U21 | Status: In Progress | Attendance: 41697
+Event ID: EVT7250 | Event Name: National Day Football Celebration | Sport: Football | Venue: Al Janoub Stadium | City: Al Wakrah | Country: Qatar | Event Date: 2026-04-15 | Team A: Al Sadd SC | Team B: Bahrain Youth Team | Status: In Progress | Attendance: 58728
+Event ID: EVT2416 | Event Name: Gulf Youth Cup Round 1 | Sport: Football | Venue: Aspire Zone Arena | City: Doha | Country: Qatar | Event Date: 2026-05-04 | Team A: Qatar U17 Squad | Team B: Qatar U21 Squad | Status: Postponed | Attendance: 31303

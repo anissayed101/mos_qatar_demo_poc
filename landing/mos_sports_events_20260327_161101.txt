@@ -1,0 +1,3 @@
+Event ID: EVT3226 | Event Name: Ministry Youth Sports Day | Sport: Basketball | Venue: Lusail Stadium | City: Lusail | Country: Qatar | Event Date: 2026-04-21 | Team A: Oman FC | Team B: Al Duhail SC | Status: In Progress | Attendance: 11635
+Event ID: EVT8730 | Event Name: Gulf Youth Cup Round 1 | Sport: Football | Venue: Education City Stadium | City: Al Rayyan | Country: Qatar | Event Date: 2026-04-26 | Team A: Palestine Youth | Team B: Qatar National Team | Status: Completed | Attendance: 79862
+Event ID: EVT5100 | Event Name: Arab Nations Championship Group Stage | Sport: Football | Venue: Ahmad Bin Ali Stadium | City: Al Rayyan | Country: Qatar | Event Date: 2026-03-27 | Team A: Al Rayyan SC | Team B: Kuwait FC | Status: Postponed | Attendance: 10495

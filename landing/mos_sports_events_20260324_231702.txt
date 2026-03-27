@@ -1,0 +1,3 @@
+Event ID: EVT9336 | Event Name: Qatar Premier League Match Day 12 | Sport: Handball | Venue: Ahmad Bin Ali Stadium | City: Al Rayyan | Country: Qatar | Event Date: 2026-04-07 | Team A: Qatar U21 Squad | Team B: Al Gharafa SC | Status: Postponed | Attendance: 45258
+Event ID: EVT5228 | Event Name: Gulf Youth Cup Semi Final | Sport: Athletics | Venue: Al Thumama Stadium | City: Doha | Country: Qatar | Event Date: 2026-04-05 | Team A: Palestine Youth | Team B: UAE National Team | Status: Cancelled | Attendance: 37200
+Event ID: EVT6222 | Event Name: Qatar Schools Football League | Sport: Handball | Venue: Al Thumama Stadium | City: Doha | Country: Qatar | Event Date: 2026-04-13 | Team A: Oman FC | Team B: Al Khor SC | Status: Cancelled | Attendance: 46645

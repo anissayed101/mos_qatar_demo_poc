@@ -1,0 +1,3 @@
+Event ID: EVT8728 | Event Name: Qatar Olympic Training Camp Evaluation | Sport: Football | Venue: Lusail Stadium | City: Lusail | Country: Qatar | Event Date: 2026-04-24 | Team A: Al Rayyan SC | Team B: Al Sadd SC | Status: Completed | Attendance: 83809
+Event ID: EVT3749 | Event Name: Doha Sports Festival Opening Match | Sport: Football | Venue: Al Bayt Stadium | City: Al Khor | Country: Qatar | Event Date: 2026-04-17 | Team A: Al Rayyan SC | Team B: Palestine Youth | Status: Completed | Attendance: 87625
+Event ID: EVT1236 | Event Name: Qatar Premier League Match Day 8 | Sport: Football | Venue: Al Wakrah Sports Complex | City: Al Wakrah | Country: Qatar | Event Date: 2026-05-05 | Team A: Jordan U21 | Team B: Saudi Arabia National | Status: Confirmed | Attendance: 70498

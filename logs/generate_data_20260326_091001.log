@@ -1,0 +1,22 @@
+2026-03-26 09:10:01 [INFO] ==================================================================
+2026-03-26 09:10:01 [INFO]   MOS Qatar Demo - Sports Data Generator
+2026-03-26 09:10:01 [INFO] ==================================================================
+2026-03-26 09:10:01 [INFO] Config file   : /home/cloudera/mos_qatar_demo_poc/config/mos_qatar_demo.ini
+2026-03-26 09:10:01 [INFO] Landing dir   : /home/cloudera/mos_qatar_demo_poc/landing
+2026-03-26 09:10:01 [INFO] Output file   : mos_sports_events_20260326_091001.txt
+2026-03-26 09:10:01 [INFO] Records count : 6
+2026-03-26 09:10:01 [INFO] ------------------------------------------------------------------
+2026-03-26 09:10:01 [INFO]   Record 01: Event ID: EVT5756 | Event Name: Qatar Premier League Match Day 5 | Sport: Football | Venue...
+2026-03-26 09:10:01 [INFO]   Record 02: Event ID: EVT1486 | Event Name: GCC Club Championship Final | Sport: Athletics | Venue: Al...
+2026-03-26 09:10:01 [INFO]   Record 03: Event ID: EVT5314 | Event Name: Doha Sports Festival Opening Match | Sport: Football | Ven...
+2026-03-26 09:10:01 [INFO]   Record 04: Event ID: EVT8510 | Event Name: Gulf Youth Cup Quarter Final | Sport: Football | Venue: Ed...
+2026-03-26 09:10:01 [INFO]   Record 05: Event ID: EVT4601 | Event Name: Qatar Premier League Match Day 8 | Sport: Volleyball | Ven...
+2026-03-26 09:10:01 [INFO]   Record 06: Event ID: EVT6588 | Event Name: MOS Annual Charity Football Gala | Sport: Athletics | Venu...
+2026-03-26 09:10:01 [INFO] ------------------------------------------------------------------
+2026-03-26 09:10:01 [INFO] File written successfully.
+2026-03-26 09:10:01 [INFO]   Full path : /home/cloudera/mos_qatar_demo_poc/landing/mos_sports_events_20260326_091001.txt
+2026-03-26 09:10:01 [INFO]   Size      : 1568 bytes
+2026-03-26 09:10:01 [INFO]   Records   : 6
+2026-03-26 09:10:01 [INFO] ==================================================================
+2026-03-26 09:10:01 [INFO]   Generator Completed Successfully
+2026-03-26 09:10:01 [INFO] ==================================================================

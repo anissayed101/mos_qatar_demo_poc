@@ -1,0 +1,3 @@
+Event ID: EVT2126 | Event Name: Gulf Cup Qualifier Round 1 | Sport: Swimming | Venue: Al Thumama Stadium | City: Doha | Country: Qatar | Event Date: 2026-04-30 | Team A: Al Sadd SC | Team B: Jordan National Team | Status: In Progress | Attendance: 84071
+Event ID: EVT3940 | Event Name: Ramadan Football Festival | Sport: Football | Venue: Aspire Zone Arena | City: Doha | Country: Qatar | Event Date: 2026-03-24 | Team A: Bahrain Youth Team | Team B: Al Arabi SC | Status: Cancelled | Attendance: 85783
+Event ID: EVT9350 | Event Name: GCC Club Championship Semi Final | Sport: Football | Venue: Ahmad Bin Ali Stadium | City: Al Rayyan | Country: Qatar | Event Date: 2026-04-23 | Team A: Al Duhail SC | Team B: Al Rayyan SC | Status: Cancelled | Attendance: 20112

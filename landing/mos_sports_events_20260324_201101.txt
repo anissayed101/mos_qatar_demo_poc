@@ -1,0 +1,3 @@
+Event ID: EVT3682 | Event Name: MOS Annual Charity Football Gala | Sport: Swimming | Venue: Education City Stadium | City: Al Rayyan | Country: Qatar | Event Date: 2026-03-23 | Team A: Al Sadd SC | Team B: Kuwait FC | Status: In Progress | Attendance: 39553
+Event ID: EVT7413 | Event Name: Gulf Youth Cup Semi Final | Sport: Volleyball | Venue: Al Thumama Stadium | City: Doha | Country: Qatar | Event Date: 2026-05-05 | Team A: Qatar U17 Squad | Team B: UAE National Team | Status: Scheduled | Attendance: 22137
+Event ID: EVT7997 | Event Name: MOS Annual Charity Football Gala | Sport: Swimming | Venue: Lusail Stadium | City: Lusail | Country: Qatar | Event Date: 2026-04-14 | Team A: Al Gharafa SC | Team B: Qatar U21 Squad | Status: Confirmed | Attendance: 76489

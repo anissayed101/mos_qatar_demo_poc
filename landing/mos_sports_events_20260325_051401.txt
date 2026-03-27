@@ -1,0 +1,3 @@
+Event ID: EVT5606 | Event Name: Gulf Youth Cup Round 2 | Sport: Athletics | Venue: Al Janoub Stadium | City: Al Wakrah | Country: Qatar | Event Date: 2026-04-04 | Team A: Al Khor SC | Team B: Kuwait FC | Status: Scheduled | Attendance: 39759
+Event ID: EVT6977 | Event Name: Qatar Cup Semi Final | Sport: Athletics | Venue: Education City Stadium | City: Al Rayyan | Country: Qatar | Event Date: 2026-03-31 | Team A: Qatar U17 Squad | Team B: Oman FC | Status: Postponed | Attendance: 85308
+Event ID: EVT6591 | Event Name: Asian Qualifiers Warm-up Match | Sport: Football | Venue: Al Thumama Stadium | City: Doha | Country: Qatar | Event Date: 2026-03-22 | Team A: Jordan National Team | Team B: UAE National Team | Status: Postponed | Attendance: 79691

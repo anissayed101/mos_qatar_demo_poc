@@ -1,0 +1,3 @@
+Event ID: EVT7244 | Event Name: GCC Club Championship Semi Final | Sport: Football | Venue: Aspire Zone Arena | City: Doha | Country: Qatar | Event Date: 2026-03-24 | Team A: Saudi Arabia National | Team B: Palestine Youth | Status: Confirmed | Attendance: 17568
+Event ID: EVT8453 | Event Name: Gulf Youth Cup Quarter Final | Sport: Volleyball | Venue: Al Thumama Stadium | City: Doha | Country: Qatar | Event Date: 2026-05-08 | Team A: Jordan U21 | Team B: Palestine Youth | Status: In Progress | Attendance: 73282
+Event ID: EVT9827 | Event Name: Gulf Youth Cup Round 2 | Sport: Football | Venue: Ahmad Bin Ali Stadium | City: Al Rayyan | Country: Qatar | Event Date: 2026-03-23 | Team A: Al Khor SC | Team B: UAE National Team | Status: Confirmed | Attendance: 23572

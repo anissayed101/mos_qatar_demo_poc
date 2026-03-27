@@ -1,0 +1,3 @@
+Event ID: EVT3296 | Event Name: Gulf Youth Cup Round 2 | Sport: Swimming | Venue: Lusail Stadium | City: Lusail | Country: Qatar | Event Date: 2026-04-03 | Team A: Qatar U21 Squad | Team B: Al Arabi SC | Status: Cancelled | Attendance: 49294
+Event ID: EVT4511 | Event Name: GCC Club Championship Final | Sport: Football | Venue: Al Janoub Stadium | City: Al Wakrah | Country: Qatar | Event Date: 2026-03-29 | Team A: Bahrain Youth Team | Team B: Kuwait FC | Status: Cancelled | Attendance: 64089
+Event ID: EVT7445 | Event Name: Qatar Premier League Match Day 8 | Sport: Football | Venue: Ahmad Bin Ali Stadium | City: Al Rayyan | Country: Qatar | Event Date: 2026-04-09 | Team A: Jordan National Team | Team B: Kuwait FC | Status: In Progress | Attendance: 36746

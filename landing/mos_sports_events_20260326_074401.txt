@@ -1,0 +1,3 @@
+Event ID: EVT5178 | Event Name: Gulf Youth Cup Quarter Final | Sport: Football | Venue: Ahmad Bin Ali Stadium | City: Al Rayyan | Country: Qatar | Event Date: 2026-03-26 | Team A: Jordan U21 | Team B: Jordan National Team | Status: Confirmed | Attendance: 57251
+Event ID: EVT9099 | Event Name: Gulf Cup Qualifier Round 1 | Sport: Swimming | Venue: Qatar Sports Club Arena | City: Doha | Country: Qatar | Event Date: 2026-03-30 | Team A: Qatar U17 Squad | Team B: Bahrain Youth Team | Status: Scheduled | Attendance: 72604
+Event ID: EVT2835 | Event Name: National Day Football Celebration | Sport: Football | Venue: Al Janoub Stadium | City: Al Wakrah | Country: Qatar | Event Date: 2026-05-08 | Team A: Kuwait FC | Team B: Al Duhail SC | Status: Confirmed | Attendance: 29693

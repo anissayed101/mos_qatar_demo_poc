@@ -1,0 +1,3 @@
+Event ID: EVT2897 | Event Name: Gulf Youth Cup Semi Final | Sport: Football | Venue: Ahmad Bin Ali Stadium | City: Al Rayyan | Country: Qatar | Event Date: 2026-04-16 | Team A: Palestine Youth | Team B: Kuwait FC | Status: Postponed | Attendance: 86851
+Event ID: EVT1351 | Event Name: Ministry Youth Sports Day | Sport: Basketball | Venue: Lusail Stadium | City: Lusail | Country: Qatar | Event Date: 2026-04-29 | Team A: Qatar U21 Squad | Team B: Qatar National Team | Status: In Progress | Attendance: 63996
+Event ID: EVT8954 | Event Name: Gulf Cup Qualifier Round 1 | Sport: Basketball | Venue: Al Wakrah Sports Complex | City: Al Wakrah | Country: Qatar | Event Date: 2026-03-29 | Team A: UAE National Team | Team B: Qatar U21 Squad | Status: Confirmed | Attendance: 61353

@@ -1,0 +1,3 @@
+Event ID: EVT1890 | Event Name: Gulf Youth Cup Final | Sport: Swimming | Venue: Al Bayt Stadium | City: Al Khor | Country: Qatar | Event Date: 2026-03-21 | Team A: Al Gharafa SC | Team B: Jordan National Team | Status: Scheduled | Attendance: 78769
+Event ID: EVT1126 | Event Name: Arab Nations Championship Semi Final | Sport: Handball | Venue: Education City Stadium | City: Al Rayyan | Country: Qatar | Event Date: 2026-05-04 | Team A: Iraq National Team | Team B: Al Khor SC | Status: Cancelled | Attendance: 31914
+Event ID: EVT9088 | Event Name: Doha Sports Festival Opening Match | Sport: Football | Venue: Lusail Stadium | City: Lusail | Country: Qatar | Event Date: 2026-03-24 | Team A: Qatar National Team | Team B: Qatar U21 Squad | Status: In Progress | Attendance: 9854

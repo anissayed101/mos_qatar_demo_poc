@@ -1,0 +1,3 @@
+Event ID: EVT2206 | Event Name: GCC Club Championship Final | Sport: Football | Venue: Lusail Stadium | City: Lusail | Country: Qatar | Event Date: 2026-03-23 | Team A: Oman FC | Team B: Jordan National Team | Status: Confirmed | Attendance: 44831
+Event ID: EVT2748 | Event Name: Gulf Cup Qualifier Round 1 | Sport: Football | Venue: Al Janoub Stadium | City: Al Wakrah | Country: Qatar | Event Date: 2026-04-09 | Team A: Qatar National Team | Team B: Kuwait FC | Status: Confirmed | Attendance: 47115
+Event ID: EVT4773 | Event Name: GCC Club Championship Quarter Final | Sport: Handball | Venue: Al Bayt Stadium | City: Al Khor | Country: Qatar | Event Date: 2026-04-19 | Team A: Saudi Arabia National | Team B: Qatar U17 Squad | Status: In Progress | Attendance: 8348

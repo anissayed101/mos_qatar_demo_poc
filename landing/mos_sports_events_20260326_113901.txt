@@ -1,0 +1,3 @@
+Event ID: EVT9202 | Event Name: Asian Qualifiers Warm-up Match | Sport: Handball | Venue: Aspire Zone Arena | City: Doha | Country: Qatar | Event Date: 2026-03-23 | Team A: Qatar U17 Squad | Team B: Jordan U21 | Status: Completed | Attendance: 72001
+Event ID: EVT2932 | Event Name: Gulf Cup Qualifier Round 1 | Sport: Football | Venue: Al Wakrah Sports Complex | City: Al Wakrah | Country: Qatar | Event Date: 2026-05-10 | Team A: Qatar U21 Squad | Team B: Jordan U21 | Status: Confirmed | Attendance: 44085
+Event ID: EVT1823 | Event Name: Qatar Olympic Training Camp Evaluation | Sport: Football | Venue: Al Bayt Stadium | City: Al Khor | Country: Qatar | Event Date: 2026-04-08 | Team A: Jordan U21 | Team B: Oman FC | Status: Postponed | Attendance: 72560

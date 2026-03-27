@@ -1,0 +1,3 @@
+Event ID: EVT6464 | Event Name: GCC Club Championship Semi Final | Sport: Football | Venue: Al Thumama Stadium | City: Doha | Country: Qatar | Event Date: 2026-04-28 | Team A: Qatar National Team | Team B: Al Duhail SC | Status: Postponed | Attendance: 69304
+Event ID: EVT2755 | Event Name: Qatar Under-20 Development League | Sport: Athletics | Venue: Al Wakrah Sports Complex | City: Al Wakrah | Country: Qatar | Event Date: 2026-04-18 | Team A: Oman FC | Team B: Al Sadd SC | Status: Cancelled | Attendance: 22433
+Event ID: EVT2255 | Event Name: Gulf Youth Cup Quarter Final | Sport: Volleyball | Venue: Education City Stadium | City: Al Rayyan | Country: Qatar | Event Date: 2026-05-11 | Team A: Al Gharafa SC | Team B: Al Sadd SC | Status: Confirmed | Attendance: 73945
